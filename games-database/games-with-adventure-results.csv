@@ -1,0 +1,1001 @@
+﻿id,game_id,name,storyline,first_release_date,follow_count,hype_count,critic_rating_value,critic_rating_count,user_rating_value,user_rating_count,id,game_id,genre_name
+12,126622,Long Count,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,12,126622,Adventure
+15,155915,Freus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,16,155915,Adventure
+25,154564,Cascadia Quest,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,22,154564,Adventure
+30,107721,The Vrennman Case,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,25,107721,Adventure
+31,182726,Maze: The Ritual,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,27,182726,Adventure
+34,141337,Diary of Lucie,"Go on an adventure looking for the scattered diary pages.  The more you read the diary, the deeper you fall asleep.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,32,141337,Adventure
+58,96518,Monster Truck Drive,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,55,96518,Adventure
+61,75283,Apex Construct,"Travel to the shattered future of Apex Construct, where merciless robots prowl the world as a result of mankind’s reckless experiments. As these synthetic creatures seek to dominate their new hunting grounds, you must use both your wits and combat skills to survive. In this atmospheric first-person Action/Adventure game, built exclusively for VR, the fate of mankind rests on you – the last human alive.",2018-02-20 00:00:00.000,3,1,59.3333,3,NULL,NULL,60,75283,Adventure
+87,102195,NYKRA,NULL,2021-09-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,74,102195,Adventure
+92,52291,Bildo,NULL,2017-07-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,80,52291,Adventure
+94,111122,Edge,NULL,2018-11-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,83,111122,Adventure
+98,108071,Soul Rebellion,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,87,108071,Adventure
+104,145096,Pokémon Blaze Online,NULL,2021-03-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,95,145096,Adventure
+108,984,Tom Clancy's H.A.W.X 2,"You will do so by mastering every nuance of the world’s finest combat aircraft. You will slip into enemy territory undetected, deliver a crippling blow and escape before he can summon a response. You will use your superior technology to decimate the enemy from afar, then draw him in close for a pulse-pounding dogfight. And you will use your steel nerve to successfully execute night raids, aerial refuelings and more.  You will do all this with professionalism, skill and consummate lethality. Because you are a member of H.A.W.X. 2. And you are one of the finest military aviators the world has ever known.",2010-09-03 00:00:00.000,3,NULL,52.1667,9,60.2152,13,97,984,Adventure
+116,151524,Loop Knight,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,108,151524,Adventure
+120,141707,Gondola's Adventure,"Gondola takes on a quest to bring medical herbs to fairies who reside in the Queen's Castle in the Sky. As such, Gondola descends into an abandoned mine to find the herbs. After finding the herbs, the real challenge begins as Gondola has to climb from the depths of the earth to the skies.",2021-02-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,114,141707,Adventure
+127,5514,Mystery Case Files: Dire Grove,"This story takes place directly after the events in Mystery Case Files: Return to Ravenhearst. The player is driving through a decrepit town called Dire Grove, which appears to be deserted. The weather forecast has predicted a heavy snowstorm and the player has no other option but to explore the deserted town for shelter. The player sees an abandoned car and finds a camcorder in it. The footage shows a teenaged girl crying and pleading the player to save them. The player also finds a cryptic note: ""She is real. The legend is real."". As the player explores the surrounding, they realize that all the villagers have evacuated due to the snowstorm, so the player has to do everything by themself. The player learns that the girl in the footage is Alison Sterling, a collegiate who has chosen the Celtic legend of the Banshee as a subject for research. She arrived here with 3 friends and all four of them are missing. The player also learns that Dr. Patricia Anderson, an archaeologist had unearthed some relics only some days ago. The player eventually learns about the legend of the Banshee. Apparently a farmer, a fisherman, a hunter and a blacksmith performed a ritual 1000 years ago to open a portal to talk to their kin in the spirit world. When the dead started attacking the living, they offered a young woman to appease the ghosts and close the portal. This woman became the Banshee and is trying to come back. The player also find that all the students have been subdued and hypnotized by the Banshee. Dr. Anderson's recording proves that the relics unearthed by her are maybe the keys to the portal. The player is left with only one option: open the portal and send the Banshee back to the spirit world. Only after opening the portal the player realizes that the Banshee has tricked them into freeing her spirit. The player races against time, trapping the Banshee's spirit again and saved the students. In the end, Alison gives a lecture about the events at Dire Grove, where she is given by a big applause by a huge number of audience, including her friends. An audience member asks her about your identity, but she says: ""That person has asked to remain nameless, but I can give you their business card."" She flashes a card, and a Mystery Case Files logo is seen and the credits start rolling.",2009-11-25 00:00:00.000,3,NULL,NULL,NULL,93.0667,8,122,5514,Adventure
+133,46420,Heart of the Alien: Out of this World Parts I And II,Enter the award-winning sci fi universe of Out of This World. A cool blue world where the past and future coexist. Where electric torture chambers are manned by primitive humanoids. And the merciful turn merciless just to survive. Imagine an alien prison. Where every passage you enter is one you may never exit. Every creature lives to try and take your life. And the further you run the closer you get to the sadist they call The Warden.,1994-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,124,46420,Adventure
+136,128002,Walk With Me,NULL,2017-05-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,127,128002,Adventure
+138,176212,Blond Escape,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,129,176212,Adventure
+140,183321,T-Shrek,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,133,183321,Adventure
+151,127841,Joan of Arc: The Beginning,NULL,2021-11-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,138,127841,Adventure
+155,182733,Monster Girls: the Advent,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,141,182733,Adventure
+157,153871,Blimby,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,143,153871,Adventure
+163,152902,Last Contingency,NULL,2020-11-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,146,152902,Adventure
+175,28323,Mega Man Legacy Collection 2,NULL,2017-08-08 00:00:00.000,7,NULL,71.4000,11,95.1374,9,162,28323,Adventure
+182,23243,Death in the Caribbean,NULL,1983-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,166,23243,Adventure
+184,131767,Mya of the Desert,"Embark on a journey to restore life to a world plagued by entropy. Traverse the landscape as Mya, a desert wanderer, in order to return the spirits of the Geomancers to their sacred mosaic. Gifted with the power of the Geomancers by the mosaic’s guardian spirit, Mya will elevate pillars of earth and bend rocks to her will to overcome the obstacles of the desert, solve the puzzles within the Geomancers’ abandoned temples, and overcome the Golem that’s been awoken by the decaying mosaic!",2020-03-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,171,131767,Adventure
+195,165521,Breakage,NULL,2013-12-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,181,165521,Adventure
+205,16141,Gargoyle's Quest II,NULL,1992-07-17 00:00:00.000,NULL,NULL,NULL,NULL,69.5651,6,190,16141,Adventure
+209,163969,Kaigrad,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,195,163969,Adventure
+211,157303,Torchway,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,197,157303,Adventure
+214,103642,ALIENS INVADED OUR PLANET,NULL,NULL,NULL,NULL,NULL,NULL,50.0000,0,202,103642,Adventure
+218,45016,Iznogoud,NULL,1998-07-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,206,45016,Adventure
+220,64856,Dancing Blade Katteni Momotenshi!,NULL,1998-08-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,207,64856,Adventure
+225,182771,Oblivio,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,220,182771,Adventure
+226,90228,Skumring,NULL,2013-04-29 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,221,90228,Adventure
+237,29985,Little Triangle,NULL,2017-01-20 00:00:00.000,NULL,NULL,NULL,NULL,80.0000,0,226,29985,Adventure
+238,148867,魔帝1 Magic Emperor1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,230,148867,Adventure
+242,165516,Beacon,NULL,2011-02-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,234,165516,Adventure
+252,6168,Insanely Twisted Shadow Planet,"As an their planet get turned apart and devoured by some mysterious dark force, these little aliens try to save it with the technologies they got.",2011-08-03 00:00:00.000,4,NULL,75.6667,5,73.4077,18,240,6168,Adventure
+253,34020,Lost Labyrinth Extended Version,NULL,2015-11-24 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,0,243,34020,Adventure
+266,28671,A SECOND BEFORE US,NULL,2017-05-10 00:00:00.000,2,NULL,NULL,NULL,50.0000,1,254,28671,Adventure
+281,125036,Die drei ??? - Das Geheimnis des Magiers,NULL,2000-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,267,125036,Adventure
+282,114305,Zero spring episode 3,NULL,2019-01-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,269,114305,Adventure
+283,43060,Brave Earth: Prologue,"Naomi vos Cruz, the young, inexperienced knight who is sent on a simple courier mission that spirals out of control and into a battle with monsters, mercenaries, and a struggle to stop a cult's powerful, demonic ritual. While not particularly mobile, Naomi has a number of special attacks to help her deal with a variety of situations.      Sinlen Rothschild, a powerful and mobile mage and Naomi's best friend. Ambushed during the investigation of ancient ruins, Sinlen defends herself with a wide assortment of long range magic.      Trevor vos Cruz, Naomi's older brother and Master Hunter for The Church. While Trevor is slow in attacking with his giant sword, Verbanner, he excels at quick, evasive maneuvers.",NULL,1,NULL,NULL,NULL,NULL,NULL,272,43060,Adventure
+284,140359,Cube Gothic,NULL,2020-09-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,275,140359,Adventure
+296,2775,Spongebob Squarepants: Underpants Slam,NULL,2007-12-26 00:00:00.000,NULL,NULL,70.0000,1,NULL,NULL,285,2775,Adventure
+297,182755,Glitch Dream,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,286,182755,Adventure
+304,113813,Project Downfall,NULL,2019-03-15 00:00:00.000,3,NULL,NULL,NULL,60.0000,0,292,113813,Adventure
+306,163970,Solitude,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,295,163970,Adventure
+308,171157,Pangea,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,301,171157,Adventure
+313,70383,The Starfire Soccer Challenge,"About the trials and tribulations of trying out for a soccer team, and their road to glory.",1998-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,308,70383,Adventure
+316,182769,Transfer,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,311,182769,Adventure
+317,153658,Pirate Fox Detective: The Case of The Conspicuous Klawz Crew,NULL,2021-05-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,313,153658,Adventure
+344,192454,Find The Murderer 2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,338,192454,Adventure
+348,83205,Der einzig wahre Auserwählte,NULL,2017-08-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,346,83205,Adventure
+350,135724,Escape Room VR: Inner Voices,NULL,2020-07-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,351,135724,Adventure
+352,18595,Another Code: Two Memories,"Two days before her fourteenth birthday, Ashley Mizuki Robbins receives a package from her father, Richard Robbins, whom she thought was dead. The package contained a small handheld device called a Dual Another System, or ""DAS"" (Dual Trace System, DTS in the American release), along with an invitation to meet him on Blood Edward Island. The following day, her and her aunt , Jessica Robbins, set off for the island. While there, Ashley meets ""D"", a ghost with no memories, who has been wandering the island alone for decades since his death. Ashley attempts to aide D in uncovering his lost memories, while also uncovering the truth about her father, the murder of her murder, and the mysterious project, code named ""Another"".",2005-02-24 00:00:00.000,4,NULL,70.0000,1,64.1228,11,357,18595,Adventure
+353,128129,The Puzzle Box Society,NULL,2020-02-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,360,128129,Adventure
+354,68852,Guns'n'Stories: Preface VR,NULL,2017-10-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,362,68852,Adventure
+355,92853,Moorhuhn Kart Extra,NULL,2003-12-31 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL,365,92853,Adventure
+358,75420,SpaceRoads,NULL,2016-05-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,371,75420,Adventure
+363,117587,Inquisitor: The Hammer of Witches,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,377,117587,Adventure
+368,192435,Mafia: Sex Noir,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,382,192435,Adventure
+386,88983,Explore Fish Feeding and Grow,NULL,2017-12-28 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,384,88983,Adventure
+396,165517,Beauty or the Beast,NULL,2001-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,387,165517,Adventure
+398,182787,Anchored,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,388,182787,Adventure
+406,117580,A five-day tour in the morgue,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,393,117580,Adventure
+415,129368,GodOrEvil.1,NULL,2020-02-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,401,129368,Adventure
+422,181207,Quest for the Book of Truth,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,406,181207,Adventure
+435,3613,Tigger's Honey Hunt,"Winnie the Pooh decides to have a party for his friends but needs more honey. He asks Tigger, a tiger with spring-like tail, to help him collect the honey they will need to have the party. Other friends from the Hundred Acre Wood such as Owl, Rabbit, Kanga, Piglet and Roo, also help Tigger find the honey they will need. After traveling through six areas and completing three minigames, Tigger goes to talk to Christopher Robin about finding more honey and he suggests different kinds of food. The party is a big success thanks to Pooh and Tigger.",2000-09-29 00:00:00.000,2,NULL,NULL,NULL,75.9841,5,411,3613,Adventure
+440,181889,Remembrance,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,414,181889,Adventure
+443,192438,Pranga,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,417,192438,Adventure
+452,126108,USAGIRI,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,423,126108,Adventure
+459,27150,Minion Masters,NULL,2019-05-24 00:00:00.000,6,1,0.0000,1,66.5303,14,434,27150,Adventure
+463,173042,Paradise Marsh,"One by one, the stars fell down from the sky into a perfect endless marsh. Wander around equipped with your trusty bug net and find a way to replenish the empty night sky. Along the way, pick wild flowers, discover lost poems and meet intriguing and colorful characters who need your help...",NULL,NULL,1,NULL,NULL,NULL,NULL,438,173042,Adventure
+474,161347,Jetpackin' Heat++,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,450,161347,Adventure
+476,158532,Tiger Girl Hill Breaker,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,453,158532,Adventure
+478,115515,My Beautiful Paper Smile,NULL,2020-06-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,456,115515,Adventure
+480,24595,Luckslinger,NULL,2015-07-16 00:00:00.000,3,NULL,90.0000,1,60.0000,2,460,24595,Adventure
+481,96676,Star Boy,NULL,2018-04-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,462,96676,Adventure
+489,119152,Noel The Mortal Fate Season 7 - end of the paranoid,NULL,2017-12-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,466,119152,Adventure
+491,36452,Card City Nights 2,NULL,2017-09-01 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,2,470,36452,Adventure
+493,33788,Echo Tokyo: Phoenix,NULL,2018-06-30 00:00:00.000,1,NULL,NULL,NULL,50.0000,0,472,33788,Adventure
+496,75836,Naruto: Gekitō Ninja Taisen! 3,NULL,2004-11-20 00:00:00.000,NULL,NULL,NULL,NULL,55.0000,0,479,75836,Adventure
+498,16241,The Cat and the Coup,NULL,2011-05-03 00:00:00.000,1,NULL,NULL,NULL,70.0000,2,481,16241,Adventure
+499,149122,Acolyte,NULL,2021-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,483,149122,Adventure
+523,143259,Lost Caves,"In an attempt to find his fortune, young Michael Miner ventures into an old California gold mine to find any gold left over. After digging up what he thinks is gold embedded in a wall, the entire mine collapses around him, and he finds himself tumbling down a deep hole into. When reaching the bottom, he finds that he's stumbled into a large complex of caverns that houses the ruins of an ancient civilization! And where there are ruins, there's treasure, and Michael is not about to return to the surface empty handed...",2021-01-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,502,143259,Adventure
+528,26011,Eradicated,NULL,2017-07-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,506,26011,Adventure
+541,73882,Masters of Sound,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,516,73882,Adventure
+546,14302,Bill & Ted's Excellent Adventure,"Join Bill & Ted on their exciting adventures through time and space.  Hey Dudes! You're going on a most excellent adventure through history. You know the whacked-out, time-warped trip we had in the movie. Now, in the Bill & Ted's Most Excellent computer game, you'll meet some neat dead dudes, too- though you'll need more than two to pass that most heinous history exam!  At the Circle K, meet Rufus, an ultra-cool messenger and his time traveling phone booth. Just dial a year and take off in time. You're looking for a bodacious bunch of historical heavyweights to bring back to San Dimas High. This is an excellent arcade / action adventure, but only the coolest of dudes will be triumphant!  Can you find the answer for Socrates the philoso-fizer, take notes for Beethoven, fiddle with Nero and chill out with Joan of Arc (she's one hot chick, but it's ""Miss of Arc"" to you)? No way?! Yes, way! Genghis Khan likes Twinkies and Marie Antoinette is into cake, but how do you get Freud to leave his mother and get Mikey (Michaelangelo) off the ceiling? Don't forget that short, dead dude Napoleon, and there's Abe Lincoln and Billy the Kid. Plus, Uncle Al (relativ-ity) wanders randomly- hey, he's Einstein, whatcha gonna do!  The animation and graphics are incredible. There's stuff digitized right outta the movie and some really neat sounds. Whoa! There's even four levels of difficulty to make this totally not easy.  So be excellent to yourself and buy this computer game. Party on, dudes!",1989-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,520,14302,Adventure
+549,148252,CLEARWORLD,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,524,148252,Adventure
+550,31001,Feel The Snow,NULL,2016-10-14 00:00:00.000,2,NULL,NULL,NULL,80.0000,2,527,31001,Adventure
+558,155931,Truants,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,535,155931,Adventure
+563,34853,Blood Code,NULL,2015-12-28 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,2,543,34853,Adventure
+566,176270,Merchant Empire,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,549,176270,Adventure
+568,181473,Deep Dreams,NULL,2020-10-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,550,181473,Adventure
+572,110442,Noble & Knightess - Episode1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,553,110442,Adventure
+576,153126,Paradigm Shift,NULL,2021-05-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,560,153126,Adventure
+578,31237,The Rabbit Hole,NULL,2017-05-26 00:00:00.000,1,NULL,NULL,NULL,60.0000,0,564,31237,Adventure
+580,88176,RTAG rise,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,567,88176,Adventure
+583,71099,Jo Guest in the Milk Round,NULL,1994-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,568,71099,Adventure
+597,87270,Rescue the Enchanter,NULL,2016-12-20 00:00:00.000,NULL,NULL,NULL,NULL,90.0000,0,581,87270,Adventure
+600,128328,Three Kingdoms Fantasy: Miss Meng and the Explosive Boy,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,584,128328,Adventure
+607,182810,Margareta,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,591,182810,Adventure
+611,16588,Paradise Island,NULL,2015-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,595,16588,Adventure
+619,119857,Room 208,"In the small quiet town of Fleetwood Vale, an old and historic hotel resides - it's history cemented in the minds of the local town residents. Now, tormented by numerous strange deaths, an EVIL has made claim to the building. Victor Rockford, a spiritual medium has been asked to use his otherworldly abilities to investigate the hotel in an aid stop the EVIL that resides in Room 208. Little did he know, what was waiting for him inside Room 208. Does Victor have what it takes to stop the EVIL? Or will the EVIL claim yet another victim?",2019-08-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,598,119857,Adventure
+620,157257,Cat from the Box,NULL,2021-07-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,600,157257,Adventure
+621,128843,Birds Are Real,NULL,2021-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,602,128843,Adventure
+624,182797,A la Fenetre,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,606,182797,Adventure
+628,70496,Mexican Motor Mafia,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,612,70496,Adventure
+630,17469,Elea,"Voyager 1231 River Elea Catherine Jones regains consciousness to find herself locked down in her own cabin. Kazumi, the omniscient A.I. host of Pilgrimage II, is offline for the first time in mission history, keeping her blocked. It won’t be long before Elea realizes that everybody else has evacuated and she is left all alone on a Worldtree-class starship.  Playing as Elea, you will navigate the hallways, control rooms and ecosystems of Pilgrimage II, the ship set to colonize Solace, a yet unexplored Earth-like exoplanet. In order to save the ship and uncover the mystery behind the disappearance of pioneering mission Pilgrimage I 15 years ago, you’ll have to aid crippled Kazumi in fighting off an eccentric invasive intelligence that wants to take control, that has been waiting in the darkness of space, preparing...  As Elea explores clues and executes manual overrides to restore Kazumi’s hijacked virtual memory, she will slowly come to realize it’s the lapses in her own memory and the imprints of a personal tragedy that she must deal with first.",2018-09-06 00:00:00.000,7,6,NULL,NULL,70.0000,1,615,17469,Adventure
+634,122144,Timothy and the Mysterious Forest,NULL,2019-09-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,620,122144,Adventure
+636,135845,Dangeresque Roomisode 1: Behind the Dangerdesque,NULL,2008-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,623,135845,Adventure
+647,59094,Divine Heart Karen SP Season 2: Sennyuu! Succubus no Into! Hen,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,627,59094,Adventure
+659,182807,Alien Afteflife,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,637,182807,Adventure
+660,182812,Vigil,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,638,182812,Adventure
+663,30886,Time Of Silence,NULL,2016-12-06 00:00:00.000,NULL,NULL,NULL,NULL,30.0000,0,641,30886,Adventure
+666,192452,Nefarium,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,644,192452,Adventure
+680,74048,Heart of the Dragon,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,659,74048,Adventure
+694,137188,The Adventures of Boxman,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,670,137188,Adventure
+698,44146,Mama Russia Needs You,NULL,2018-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,672,44146,Adventure
+704,182876,Piratiska Riba VR,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,680,182876,Adventure
+710,27341,Potioneer: The VR Gardening Simulator,NULL,2016-10-20 00:00:00.000,1,1,NULL,NULL,60.0000,0,693,27341,Adventure
+713,34080,Metal Tales: Fury of the Guitar Gods,NULL,2016-11-18 00:00:00.000,1,NULL,NULL,NULL,70.0000,0,697,34080,Adventure
+715,192440,Robot-X,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,700,192440,Adventure
+716,99790,Alawar Hidden Realms Bundle,NULL,2015-02-18 00:00:00.000,1,1,NULL,NULL,NULL,NULL,704,99790,Adventure
+720,112899,The Pilgrimage I,NULL,2019-01-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,707,112899,Adventure
+725,33115,Wrath of Anna,NULL,2016-09-20 00:00:00.000,1,NULL,NULL,NULL,70.0000,1,714,33115,Adventure
+727,176297,Pirates Crew,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,716,176297,Adventure
+729,178284,Rubicon: A Conspiracy of Silence,NULL,2021-10-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,717,178284,Adventure
+737,110610,Our Worst Fears,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,723,110610,Adventure
+742,182824,The Skeld,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,727,182824,Adventure
+747,45170,Secret Agent Barbie: Royal Jewels Mission,NULL,2002-11-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,730,45170,Adventure
+761,127312,ROAD HOMEWARD: Open world,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,747,127312,Adventure
+771,75085,Star Wars: The Best of PC,NULL,2006-11-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,749,75085,Adventure
+778,176294,Mauritius Atoll,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,753,176294,Adventure
+792,100240,Gai Travel,NULL,2018-05-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,763,100240,Adventure
+800,180833,JianPo,NULL,2021-09-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,766,180833,Adventure
+804,70645,Nami no Mani Mani - Sazanami Shinryoushou,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,768,70645,Adventure
+806,117260,Warlord: Attrition,NULL,2020-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,773,117260,Adventure
+811,122060,Mage Math,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,776,122060,Adventure
+813,176295,Cardinal Ramship Pirate,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,778,176295,Adventure
+823,9607,CLANNAD,"Tomoya Okazaki is a third year high school student at Hikarizaka Private High School, leading a life full of resentment. His mother passed away in a car accident when he was young, leading his father, Naoyuki, to resort to alcohol and gambling to cope. This resulted in constant fights between the two until Naoyuki dislocated Tomoya’s shoulder. Unable to play on his basketball team, Tomoya began to distance himself from other people. Ever since he has had a distant relationship with his father, naturally becoming a delinquent over time.  While on a walk to school, Tomoya meets a strange girl named Nagisa Furukawa, questioning if she likes the school at all. He finds himself helping her, and as time goes by, Tomoya finds his life heading towards a new direction.",2004-04-28 00:00:00.000,9,NULL,NULL,NULL,90.8528,27,784,9607,Adventure
+833,73855,Space Crusade: The Voyage Beyond,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,792,73855,Adventure
+834,47,Overlord: Dark Legend,NULL,2009-06-23 00:00:00.000,NULL,NULL,60.0000,2,NULL,NULL,794,47,Adventure
+844,144016,Casina: A Visual Novel set in Ancient Greece,"""What could ever be better than this, in this world? Love is the most beautiful of all beautiful things, let me tell you. No, it is now possible to imagine anything more spicy, more enticing!"" Lisidamus    Written by the famous Roman comedian Plauto in 184 BC, Casina was considered one the most famous and funny comedies in Ancient History. A blast from the past!",2021-03-23 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,805,144016,Adventure
+848,54865,Dark Dimensions: Wax Beauty - Collector's Edition,NULL,2017-08-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,808,54865,Adventure
+860,115924,Moonlight thief,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,819,115924,Adventure
+863,165746,Escape This Big Maze!,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,823,165746,Adventure
+872,132309,Ato,NULL,2020-05-08 00:00:00.000,1,1,NULL,NULL,NULL,NULL,831,132309,Adventure
+877,110324,Blink: Rogues,"The Early Access journey will take you through five different missions, each filled with unique hand crafted enemy formations, that will test your memory, concentration and reaction speed.  The story unfolds through collecting Memento Cubes, special units of storage that are scattered around the missions and represent journal entries for some of the characters.  Each of the missions can be 100% cleared, and in doing so the player earns 3 stars. Also, if connected to Steam, your score will be uploaded to the global leaderboards.",2018-09-28 00:00:00.000,NULL,1,NULL,NULL,70.0000,0,837,110324,Adventure
+888,119484,First Customer,NULL,2019-06-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,844,119484,Adventure
+897,73789,Enchanter Trilogy,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,852,73789,Adventure
+903,106328,Flying Soul,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,860,106328,Adventure
+905,81827,Devil's Land,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,864,81827,Adventure
+921,80536,Lost in Time: Parts 1 & 2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,880,80536,Adventure
+922,29157,Escape: VR,NULL,2017-04-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,881,29157,Adventure
+923,143300,Alien Life Simulator,NULL,2021-02-18 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL,885,143300,Adventure
+924,172764,JoJo's Bizarre RPG: Battle Tendency,"The story is set in 1839 - 50 years after the events of the first part. Speedwagon, now CEO of a world-famous foundation, has located an ancient temple in Mexico that contains more stone mask and what looks like a carving of a man in a pillar. Meanwhile, the grandson of Jonathan Joestar, Joseph Joestar, discovers he can also use Hamon, just like his late grandfather. But he doesn't know that because of the discovery in Mexico the whole world is in danger and that it's up to him to save it and discover more about the past.",2021-07-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,888,172764,Adventure
+925,149559,Bulorgus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,889,149559,Adventure
+939,89325,Undercrewed,NULL,NULL,NULL,NULL,NULL,NULL,50.0000,0,910,89325,Adventure
+944,176241,The Ravine,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,917,176241,Adventure
+950,65316,Minna de Taikan Dokusho DS: Cho-Kowai! Gakkou no Kaidan,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,924,65316,Adventure
+956,2823,Samurai Jack: The Shadow of Aku,NULL,2004-03-24 00:00:00.000,5,NULL,NULL,NULL,54.0000,3,930,2823,Adventure
+957,9745,Xia-Xia,NULL,2012-03-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,931,9745,Adventure
+959,31804,Farm Life: Natures Adventure,NULL,2016-08-23 00:00:00.000,NULL,NULL,NULL,NULL,40.0000,0,934,31804,Adventure
+960,10900,Shinobido 2: Revenge of Zen,"Set six months after the events of the previous game, Shinobido 2: Revenge of Zen lets players step into the shoes of Zen, a master assassin, as he slips through the darkness in a story of betrayal and intrigue set in the once peaceful region of Utakata, now in the grip of a vicious civil war. Betrayed by his companions and left fatally wounded, Zen chooses to live the life of a ninja and sets out to find those who wronged him, stopping at nothing to unleash the full fury of his silent yet deadly revenge.",2011-12-17 00:00:00.000,NULL,NULL,60.0000,2,NULL,NULL,936,10900,Adventure
+965,120010,Lost,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,938,120010,Adventure
+968,192465,Shroomscape Zone,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,941,192465,Adventure
+974,192450,Swords Fantasy: Battlefield,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,945,192450,Adventure
+977,163924,Hard Minus Classic Redux,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,949,163924,Adventure
+978,112741,Darkheart: Flight of the Harpies,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,951,112741,Adventure
+997,133168,Lost Circus VR,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,961,133168,Adventure
+998,62544,Akagawa Jirou: Yasoukyoku,NULL,1998-07-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,963,62544,Adventure
+1007,128419,Bishoujo Mangekyou -Kotowari to Meikyuu no Shoujo-,NULL,2020-03-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,972,128419,Adventure
+1011,155946,Block Me.,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,980,155946,Adventure
+1013,176204,Archewood,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,983,176204,Adventure
+1031,182851,Grief: How to say goodbye,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,991,182851,Adventure
+1038,123924,Lost In Dungeon,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,997,123924,Adventure
+1040,154820,Babol the Walking Box,NULL,2021-06-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1001,154820,Adventure
+1042,46887,Bugs Bunny,NULL,1983-06-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1003,46887,Adventure
+1044,147658,Escape 2088,NULL,2020-10-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1006,147658,Adventure
+1058,121791,Dwerve,"In the massive hollow mountain of Mount Crowcrest, there once lived a great nation of dwarves. The dwarves discovered power stones while mining deep in the mountain. They used them to power machines and, eventually, entire cities. They lived in peace and prosperity for centuries.    Over time they became infatuated with power stones and dug deeper to find more. One day they dug too deep and unleashed the Gloomdark Hordes, an army of trolls and monstrous creatures. Once the dwarves realized that trolls turned to stone in the sunlight, they fled far from the mountain and found refuge on the sunny Hills of Brekka.    Centuries passed and, over time, the dwarves forgot their traditions and abandoned craftsmanship and innovation in favor of warring and raiding. History became myth, and myth became bedtime stories. But whispers of a long forgotten darkness echo throughout the valley of the great mountain. It can be heard in the Snoring Forest, by those who dare to enter...",2022-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1021,121791,Adventure
+1067,155399,Bill & Ted's Excellent Adventure,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1027,155399,Adventure
+1070,148559,Lost Egg 2: Be together,NULL,2022-03-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1028,148559,Adventure
+1076,66345,Snoopy: The Cool Computer Game,"Linus has lost his blanket! And whilst Linus' world seems to end, you as Snoopy the world's favourite beagle set out to find the blanket ... But its not that easy!",1989-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1035,66345,Adventure
+1082,176277,PRTs,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1038,176277,Adventure
+1086,176276,A Pirate's End,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1044,176276,Adventure
+1087,36288,Gold Rush! Classic,NULL,2014-07-25 00:00:00.000,1,NULL,NULL,NULL,70.0000,0,1045,36288,Adventure
+1088,43768,Spriggan: Lunar Verse,"Lunar Verse takes place in the same world as the manga and film but focuses on a new character and goes for a different visual style. Oshiki Tashiki is a new Striker in the ARCAM Private Army, which seeks out ancient artifacts and keeps them from enemies who wish to turn a cold war into an actual one.",1999-06-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1046,43768,Adventure
+1090,108032,Drymir Cave under Richmordnom,NULL,2018-08-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1048,108032,Adventure
+1093,120777,RogueVerse,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1053,120777,Adventure
+1094,18120,Undead vs. Plants,NULL,2015-04-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1057,18120,Adventure
+1095,176280,Galvanica,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1059,176280,Adventure
+1098,20065,Resident Evil 4 HD,"In resident Evil 4, special agent Leon S. Kennedy is sent on a mission to rescue the U.S. President’s daughter who has been kidnapped. Finding his way to a rural village in Europe, he faces new threats that are a departure from the traditional lumbering zombie enemies of the earlier instalments in the series. Leon battles horrific new creatures infested by a new threat called Las Plagas and faces off against an aggressive group of enemies including mind-controlled villagers that are tied to Los Illuminados, the mysterious cult which is behind the abduction.",2011-09-08 00:00:00.000,45,1,85.2500,23,89.0533,80,1062,20065,Adventure
+1110,80411,Nocturne,NULL,1986-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1078,80411,Adventure
+1117,85675,Prometheus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1084,85675,Adventure
+1127,39766,Battlefish: Free Zombie Games,"An unknown virus has caused sea animals to become stupid zombies and monsters. Now, the stupid fish zombies rage across the world! It's up to you to lead and defend! Rise up against fish zombies, conquer or perish trying! Plan, battle fish, and defend the world from horde of fish zombies! No battlefish was ever won according to plan, but no battlefish was ever won without one! Everything is about planning and strategy!        Look alive! The evil and stupidly cute zombies are shuffling in your direction, and they're hungry for brains! Install Battlefish zombie games – funniest zombie games-- there's no better way to prepare for the zombie apocalypse!",2017-06-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1094,39766,Adventure
+1131,176278,Aaaarrrrgggghhhh!,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1100,176278,Adventure
+1150,2336,Mario Party 9,NULL,2012-03-02 00:00:00.000,8,NULL,73.6667,3,68.0903,36,1114,2336,Adventure
+1161,167507,Karvaros,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1125,167507,Adventure
+1164,122298,Throne Quest Deluxe,NULL,2019-09-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1132,122298,Adventure
+1165,192447,MacShot,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1133,192447,Adventure
+1166,192446,Legacy Quest 2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1134,192446,Adventure
+1167,59049,Josou Gal Bitch Gakuen: Half Musume Judy no Yuuwaku,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,1136,59049,Adventure
+1171,192466,Hidden World Top-Down 3D,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1141,192466,Adventure
+1175,9732,The Flame in the Flood,NULL,2016-02-24 00:00:00.000,23,2,76.8824,18,76.9567,44,1145,9732,Adventure
+1181,90058,Legend's World,"Many years ago in distant lands, the secrets of the incidents, which gave rise the appearance of strange creatures and the changing of the world into a world of fantasies and adventures, were guarded by The Ancients and this marks the beginning of the First Era. Over the years, the creatures have become more dangerous, the adventures have become very risky and the changes in the world occurred in a bad way.  Today, twenty-one years later, the last ancient decided to challenge and confront the world and its challenges with the help of the last heroes.",2018-03-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1149,90058,Adventure
+1182,147813,Laid-Back Camp: Virtual - Fumoto Campsite,"Together, Rin (you!) and Nadeshiko embark on a new camping adventure at the Fumoto Campsite, taking pictures and trying lots of delicious food.",2021-04-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1151,147813,Adventure
+1188,69363,Ise Shima Mystery Annai: Itsuwari no Kuro Shinju,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1153,69363,Adventure
+1195,2223,Torin's Passage,"Curse the quick thinking of the Arch Authority, snatching the child away before his doom was sealed. Had the lad been with the rest, surely my suffering would have ceased years ago. At last I have found him, but in a world of isolation and innocence. He has no idea of the twists and turns his life has taken thus far, nor the path I have planned for his very short future. Just let him try to discover the truth, and learn the secrets of Strata's five nested worlds. Watching his struggle will be an amusement. Facing him will be horribly wonderful.",1995-12-31 00:00:00.000,7,NULL,70.0000,1,76.0972,7,1160,2223,Adventure
+1204,32428,Townsmen,NULL,2012-12-31 00:00:00.000,1,NULL,44.0000,1,50.0000,4,1172,32428,Adventure
+1205,38941,Teeny Titans: Teen Titans Go!,NULL,NULL,NULL,NULL,NULL,NULL,46.2528,0,1174,38941,Adventure
+1207,125313,Invasion Deutschland,NULL,2000-12-31 00:00:00.000,1,1,NULL,NULL,NULL,NULL,1176,125313,Adventure
+1209,152575,Mousey Mick,NULL,2021-06-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1177,152575,Adventure
+1210,78473,Akogare Girls Collection: Suteki ni Nurse Days,NULL,2009-08-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1179,78473,Adventure
+1217,150461,Cut Them Up,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1183,150461,Adventure
+1223,69942,Lafuma Unlimit,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1187,69942,Adventure
+1224,110035,Reality Clash: AR Combat Game,NULL,2019-05-01 00:00:00.000,1,1,NULL,NULL,NULL,NULL,1191,110035,Adventure
+1239,176311,Why does he want me dead,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1202,176311,Adventure
+1240,105707,One person story,NULL,2019-11-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1204,105707,Adventure
+1242,20204,SCP-087-B,"You find yourself inside a set of randomly generated dark hallways and staircases with something lurking below you, and the only way you can go is deeper into the darkness. How deep can you go?",2012-01-30 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL,1209,20204,Adventure
+1243,51739,Lycah,NULL,2017-07-21 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,0,1213,51739,Adventure
+1246,106622,Dabwoman: When The Dab Isn't sexist,NULL,NULL,NULL,NULL,NULL,NULL,70.0000,0,1218,106622,Adventure
+1251,113610,Pixel Devil and the Broken Cartridge,NULL,2019-02-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1223,113610,Adventure
+1252,36463,Employee Recycling Center,NULL,2017-05-15 00:00:00.000,NULL,NULL,NULL,NULL,40.0000,0,1226,36463,Adventure
+1256,155299,The Abnormal Place,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1231,155299,Adventure
+1257,180386,Snowfall,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1233,180386,Adventure
+1264,65110,DeadEnd: Cerebral Vortex,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1237,65110,Adventure
+1265,63804,Slender Man's Shadow,NULL,2013-01-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1238,63804,Adventure
+1267,69056,Disney Princess Worlds of Enchantment,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1239,69056,Adventure
+1275,169369,Innocent Girl,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1243,169369,Adventure
+1276,79130,Void Excursion,"Space. An endless area of exploration and imagination, with the stars acting as our beacons of destination. Continue into the void, young explorer, and report back with as much information as you can pertaining the limitless mysteries surround the galaxy. Take heed traveller, for the dangers of space gawk at nothing, and remain immovable to the determination of the mightiest space soldiers!!    How far can you go?    Credit: A tutorial game made through the guidance of Jimmy Vega",2017-12-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1245,79130,Adventure
+1280,57302,The Trail,NULL,2016-09-23 00:00:00.000,3,1,NULL,NULL,NULL,NULL,1247,57302,Adventure
+1289,58068,Achar Chronicles: Oblitus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1249,58068,Adventure
+1294,105083,Trek: Travel Around the World,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1257,105083,Adventure
+1306,176304,Pirate's Pension,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1266,176304,Adventure
+1317,27199,Phantom Halls,NULL,2018-10-31 00:00:00.000,NULL,1,NULL,NULL,60.0000,0,1270,27199,Adventure
+1329,158039,Fox Spirit: A Two-Tailed Adventure,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1279,158039,Adventure
+1344,77835,Triangle Heart 3: Lyrical Omochabako,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1289,77835,Adventure
+1345,128113,Magnet Fishing Simulator,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1291,128113,Adventure
+1348,75789,All That Remains,NULL,2017-11-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1297,75789,Adventure
+1354,134583,FORSPOKEN,"Forspoken follows the journey of Frey, a young New Yorker transported to the beautiful and cruel land of Athia. In search of a way home, Frey must use her newfound magical abilities to traverse sprawling landscapes and battle monstrous creatures.",2022-10-11 00:00:00.000,2,35,NULL,NULL,NULL,NULL,1302,134583,Adventure
+1358,65543,Wimmelbild-Box Mystery,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1306,65543,Adventure
+1363,150250,Jurassic Extinction,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1313,150250,Adventure
+1364,190134,Galactic Frontier,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1314,190134,Adventure
+1378,104871,Fatman Simulator,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1322,104871,Adventure
+1389,78059,OF MICE AND SAND -REVISED-,NULL,2017-12-21 00:00:00.000,NULL,NULL,67.5000,2,93.0000,3,1333,78059,Adventure
+1393,81114,NeuroMatrix,NULL,2018-09-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1337,81114,Adventure
+1397,62291,Jeff the Killer Revenge,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1341,62291,Adventure
+1414,75383,Mystery Stone from Heaven,NULL,2017-11-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1361,75383,Adventure
+1421,120610,A Kingdom of Flesh and Stone,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1371,120610,Adventure
+1425,49641,Cesti to Meigurumi-tachi no Mahou no Bouken: Kisekko Gurumii,NULL,2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1379,49641,Adventure
+1428,27427,Journey To The Center Of The Earth,NULL,2015-09-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1384,27427,Adventure
+1430,77827,Tou no Shita no Exercitus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1388,77827,Adventure
+1436,72296,Fedora Spade: Death Wears a Fedora,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1395,72296,Adventure
+1451,47988,Hereafter,NULL,2017-10-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1409,47988,Adventure
+1452,118610,Call of the Void,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1414,118610,Adventure
+1465,176308,Hermes & Gry: A Crooked Plan,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1427,176308,Adventure
+1472,22441,A Land Fit For Heroes,NULL,2016-05-03 00:00:00.000,NULL,NULL,50.0000,1,NULL,NULL,1434,22441,Adventure
+1476,109735,Fist of love,NULL,NULL,NULL,NULL,NULL,NULL,70.0000,0,1442,109735,Adventure
+1498,142505,Amity x Li,NULL,2014-09-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1456,142505,Adventure
+1500,176356,Pencil Peril,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1461,176356,Adventure
+1510,155951,Gravity Field,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1470,155951,Adventure
+1514,36688,Sea Search,NULL,1983-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1476,36688,Adventure
+1516,81002,VR Dunhuang,NULL,2018-01-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1479,81002,Adventure
+1533,64219,The Flower Shop: Winter in Fairbrook,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1493,64219,Adventure
+1544,148938,Fallen World,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1503,148938,Adventure
+1562,27943,Lake Ridden,"You are Marie, a 13-year-old girl and the year is 1988. Reluctantly, you join your sister and her friends for one last camping weekend before winter. It was going great, but the second night an argument with your sister ended with her running off into the forest.  While looking for her, you stumble upon an old forgotten estate filled with mysteries. As dark shadows emerge from the night, you need to find a place to hide! To survive, and ultimately save your sister, you must find clues, solve puzzles and befriend former residents. You’ll uncover an old conflict driven by envy, madness, and hate.",2018-05-10 00:00:00.000,10,3,NULL,NULL,70.0000,1,1515,27943,Adventure
+1563,153640,Shin Megami Tensei V: Fall of Man Premium Edition,"Shin Megami Tensei V, the fifth numbered game of the Shin Megami Tensei series, is a role-playing video game set in modern-day Tokyo. It will feature returning gameplay elements from previous games, such as the ability to fuse demons, along with new mechanics.",2021-11-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1519,153640,Adventure
+1566,81649,Tank 51,NULL,2018-01-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1522,81649,Adventure
+1570,72718,"Sora no Iro, Mizu no Iro",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1525,72718,Adventure
+1572,26025,Stray Souls: Dollhouse Story,NULL,2011-03-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1528,26025,Adventure
+1573,113472,The Tales of Bingwood: Chapter I - To Save a Princess,"Tom, the fisherman's son, is thrown in the middle of a nefarious scheme as the Royal Princess is kidnapped by the formidable Evil Wizard and his henchman. Tom takes on the rescue effort but he needs the help of the villagers to begin the pursuit of the malefactors to Shady Forest and beyond.",2008-10-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1530,113472,Adventure
+1576,176301,Bloodbeard's Revenge,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1535,176301,Adventure
+1577,126244,Find The Treasure,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1536,126244,Adventure
+1593,128980,Plunker,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1547,128980,Adventure
+1595,118981,Six Degrees of Damnation,NULL,2019-10-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1551,118981,Adventure
+1598,405,Final Fantasy XI: Treasures of Aht Urhgan,NULL,2006-04-18 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,1557,405,Adventure
+1606,120750,Away From Earth: Titan 2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1564,120750,Adventure
+1621,180957,Pokémon Prisme,NULL,2012-03-24 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL,1577,180957,Adventure
+1628,139173,Noch,"Go alone (or with a friend) to find the girl who destroyed the world. An ominous surreal first-person adventure full of dangerous monsters and secrets of the deceased world  Let's start!  Imagine… Night. You’re in a car, lost among endless forest on a highway. Perhaps you will desperately try to escape... Try not to lose hope. You were in hurry to get somewhere. But does it matter now?  After all, Lisa has already destroyed the world and our reality has become unsteady, like a dream. All around, or maybe only around you, was an unimaginably thick sparkling black-blue haze with no end. The worst thing happens - an animal being scared to death by jumping to the road from the forest. Crash. You are alive. You have to get out of the broken car and face what the time-changing reality has prepared for you. Welcome to the worst! And remember, waiting for dawn is useless, but death will not bring salvation...  Can you survive if the nature of things as they are is destroyed? And what will you do if you meet the one that is hard to remember and impossible to forget? The one responsible for the endless night and darkness?  Your adventure begins!",2021-05-16 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL,1582,139173,Adventure
+1637,155965,Ricky did nothing wrong,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1585,155965,Adventure
+1640,116514,Brood,NULL,NULL,NULL,NULL,NULL,NULL,70.0000,0,1587,116514,Adventure
+1652,181302,Humanity Is Dead,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1598,181302,Adventure
+1658,7623,Nancy Drew: Treasure in the Royal Tower,NULL,2001-08-01 00:00:00.000,2,NULL,NULL,NULL,60.0932,6,1603,7623,Adventure
+1660,192495,Lost in Place,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1605,192495,Adventure
+1661,24610,The Old Tree,NULL,2015-01-26 00:00:00.000,3,NULL,60.0000,1,60.0000,4,1606,24610,Adventure
+1664,84059,Crypt,NULL,2018-03-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1610,84059,Adventure
+1679,115516,DooM in the Dark,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1625,115516,Adventure
+1686,114897,Fear Simulator,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1634,114897,Adventure
+1703,176329,Duck Build,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1642,176329,Adventure
+1714,110466,Attack Of Mutants,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1659,110466,Adventure
+1724,43290,Super Farm,"As the only female, Pamela the beautiful Turkey hen had made quite an impact down on Super Farm...  But when one day she is snatched away, only to be sold at the local meat factory, starts an hilarious and frantic chase to save her.    Choose your unique character and face off within wacky mini games to win the heart of Pamela, the gorgeous turkey.  -10 wild wacky characters and 6 hidden characters to find.  - 6 game types and a huge range of weapons.  - Up to 4 player mayhem with co-operative and team play modes.  -16 varying locations and 4 hidden bonus levels.",2004-03-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1667,43290,Adventure
+1727,152742,Wandering Trails: A Hiking Game,NULL,2021-08-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1672,152742,Adventure
+1748,120760,Alien Kingdom,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1694,120760,Adventure
+1749,138225,Super Mario 3D All-Stars,NULL,2020-09-17 00:00:00.000,15,3,84.8889,11,64.5020,28,1698,138225,Adventure
+1767,192445,Air Racing VR,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1715,192445,Adventure
+1774,100101,SVOBODA,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1719,100101,Adventure
+1777,184018,A Subtle Kind of Murder: A Murder Simulator,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1724,184018,Adventure
+1783,89587,Hot Mars 69,NULL,NULL,NULL,NULL,NULL,NULL,40.0000,0,1727,89587,Adventure
+1794,76337,Eggo,NULL,2017-12-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1730,76337,Adventure
+1809,114111,Quest for the Golden Duck,NULL,2019-01-24 00:00:00.000,NULL,NULL,NULL,NULL,43.0000,1,1739,114111,Adventure
+1810,123760,Battle Siege Royale,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1744,123760,Adventure
+1812,75901,Amazeing Lemons,NULL,2017-12-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1747,75901,Adventure
+1814,180332,End: Live Through It,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1750,180332,Adventure
+1817,158141,Noise Hunters,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1755,158141,Adventure
+1820,26138,Alicemare,"Allen is a young boy who has lost his memory. Bereaved by the loss of his mother and father, he eventually ends up at a home for lost children. One day, he sets out to investigate a rumor heard from the other children. This is where Allen’s story really begins...",2016-11-22 00:00:00.000,1,NULL,NULL,NULL,60.2213,5,1760,26138,Adventure
+1839,95242,Dark Romance: Heart of the Beast - Collector's Edition,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1780,95242,Adventure
+1845,9714,Silent Hill: Book Of Memories,"The protagonist receives a strange book on his birthday from an unknown sender in Silent Hill. All of his memories are written there, and by altering the book, he finds that he can alter past events in his life. Before the changes take effect though, the character falls asleep and must survive a nightmare, explore the Otherworld and battle creatures from previous Silent Hill games on the way.",2012-10-16 00:00:00.000,6,NULL,63.4000,6,60.1416,6,1785,9714,Adventure
+1847,130688,Mega Cat Studios Collection 1,NULL,2020-06-08 00:00:00.000,NULL,NULL,76.0000,1,NULL,NULL,1790,130688,Adventure
+1848,83483,Playground Battle World,NULL,2018-05-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1791,83483,Adventure
+1856,90051,Pudding Monsters,"The Pudding Monsters are on a mission to save their friends from the cold-hearted fridge owner! Growing into an ultimate mega monster sounds like the most reliable plan. Can you give them a hand?  Off the table, out of the house, and into the city... swipe to stick the Pudding Monsters together and save their friends!",2012-12-20 00:00:00.000,1,NULL,NULL,NULL,90.0000,4,1797,90051,Adventure
+1857,33528,SoniComi,"Lead Sonico to Stardom: Sonico has the potential to become an international superstar. It's your job to provide her with guidance and support as she chases her dreams. Depending on your actions, you can reach one of 18 wildly different endings. In between shoots, you'll have the opportunity to interact with Sonico in many different situations. Your choices will affect her opinion of you, potentially unlocking new story paths. In addition to dialogue options, you will also have opportunities to interact with Sonico through personal interactions. Be careful, as some choices can be dangerous, while others can lead to sparks of love!  Become a Photographer: Choose a location, put together an outfit, and get to shooting! During each photography session you must score points by shooting quality photographs as requested by the client. Your photographer's eye will show colored rings to identify the best shots. Don't get too carried away! You must also manage Sonico's enthusiasm and stamina. Lift her spirits with well-timed banter and breaks. The greater her enthusiasm, the more daring her poses!",2011-11-25 00:00:00.000,2,NULL,NULL,NULL,80.0000,2,1799,33528,Adventure
+1858,73796,Kingdom of Kroz,NULL,1988-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1802,73796,Adventure
+1861,99029,Black Jack Story,NULL,2018-04-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1803,99029,Adventure
+1866,97926,The Rainsdowne Players,NULL,2018-09-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1808,97926,Adventure
+1871,83325,Pure Marriage: Akai Ito Monogatari - Madoka Hen,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1812,83325,Adventure
+1875,64892,Refrain Love,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1813,64892,Adventure
+1910,119394,Ni no Kuni: Wrath of the White Witch for Nintendo Switch,NULL,2019-09-20 00:00:00.000,3,2,90.0000,2,87.5882,5,1838,119394,Adventure
+1921,132798,Palladium: Adventure in Greece,NULL,2021-06-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1856,132798,Adventure
+1952,70305,Abmis the Lion,NULL,1996-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1877,70305,Adventure
+1955,115492,Furry Shakespeare: To Date Or Not To Date Cat Girls?,NULL,2019-04-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1881,115492,Adventure
+1957,17194,Backstage Pass,NULL,2014-04-05 00:00:00.000,NULL,NULL,NULL,NULL,80.0000,0,1886,17194,Adventure
+1964,55486,0°N 0°W,NULL,2018-03-02 00:00:00.000,1,NULL,50.0000,2,70.0000,3,1892,55486,Adventure
+1965,24611,Life Is Feudal: MMO,NULL,2017-08-16 00:00:00.000,1,NULL,65.0000,3,50.0000,1,1896,24611,Adventure
+1971,192494,Soul In the Chamber,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1903,192494,Adventure
+1972,47423,Double Fine Happy Action Theater,NULL,2012-02-01 00:00:00.000,NULL,NULL,67.0000,5,NULL,NULL,1904,47423,Adventure
+1977,192503,SpunkStock,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1911,192503,Adventure
+1978,106606,Banana girl,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1915,106606,Adventure
+1986,163515,Love Puzzle,NULL,2020-12-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1921,163515,Adventure
+1987,107113,Protoform,NULL,2020-01-01 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,1924,107113,Adventure
+1996,163925,Bushfires: Animal Rescue,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1934,163925,Adventure
+1998,117876,LOVE³ -Love Cube-,NULL,2019-07-25 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,1,1937,117876,Adventure
+2003,72003,CSI: Crime Scene Investigation - 3 Dimensions of Murder,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1941,72003,Adventure
+2008,111033,Project Winter,NULL,2019-05-23 00:00:00.000,7,1,70.0000,1,70.3005,8,1944,111033,Adventure
+2011,67844,Easy No Smoking Wii App,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1948,67844,Adventure
+2015,181909,Melody of the Light,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1951,181909,Adventure
+2028,119831,The Ring of Truth,NULL,2019-07-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1960,119831,Adventure
+2032,176284,Goat on Boat,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1964,176284,Adventure
+2033,132760,Capybara Carbonara,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1966,132760,Adventure
+2036,31190,Super Cave Boy: Forsaken Dungeon,NULL,NULL,1,1,NULL,NULL,NULL,NULL,1973,31190,Adventure
+2039,114903,Killing Trials,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1977,114903,Adventure
+2043,67552,Dr. Slump: Bubble Daisakusen,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1981,67552,Adventure
+2047,178235,Ancra,"The photographer's house lies empty, its blood still. Before it stands a figure. The house beckons. Lights within flicker to life. Spirits stir at her return. An Ancra is only complete when it is understood. It requires both Vessel and victim. Whose remains shall you cast to flames? The book of the Serpent shall be your guide. And the final page remains unwritten.",2021-10-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1985,178235,Adventure
+2050,157731,Marcella Moon: Saboteurs on the River,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1988,157731,Adventure
+2054,118067,Mushroom Cats,NULL,2019-06-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1994,118067,Adventure
+2058,135439,"The Wake: Mourning Father, Mourning Mother",NULL,2020-07-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,1998,135439,Adventure
+2060,47318,Jade Empire: Limited Edition,"In the ancient, mysterious world of the Jade Empire, you train under your master’s watchful eye and learn powerful martial arts and mystical powers.    When danger threatens, you travel across the world, from the harsh mountains of the Land of Howling Spirits to the lush gardens of the Imperial City.    In your adventures you face powerful human and supernatural foes, learn exotic and magical martial arts, and discover the darkest secrets of the world.    Only by mastering the greatest fighting styles and defeating the most powerful enemies will you earn your place as a master of martial arts in the world of Jade Empire.",2005-04-12 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,2001,47318,Adventure
+2066,72702,Tales of Pirates,NULL,2007-03-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2009,72702,Adventure
+2067,74359,Pill Cosbi,NULL,2017-10-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2010,74359,Adventure
+2070,179205,Push Puzzle: Rescue Adventure,NULL,2021-11-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2012,179205,Adventure
+2071,151454,Burnt Ashes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2014,151454,Adventure
+2077,9808,Vertical Drop Heroes HD,NULL,2014-07-25 00:00:00.000,1,NULL,69.0000,2,90.0000,4,2024,9808,Adventure
+2078,126202,活下去,NULL,2019-10-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2029,126202,Adventure
+2083,154075,Lucidus Mortem,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2034,154075,Adventure
+2092,163036,Lux mina,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2045,163036,Adventure
+2093,186123,Craterbound,NULL,2022-01-25 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL,2046,186123,Adventure
+2095,143031,Oona the Druid's Path,NULL,2021-02-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2048,143031,Adventure
+2098,70895,Tiny Hope,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2053,70895,Adventure
+2099,134868,PEEPAW,NULL,2019-07-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2054,134868,Adventure
+2101,24053,Echoes of the Fey: The Fox's Trail,NULL,2016-07-12 00:00:00.000,NULL,NULL,81.0000,1,70.0000,0,2058,24053,Adventure
+2104,35969,TDP4: Team Battle,NULL,2015-03-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2062,35969,Adventure
+2107,160214,Building 847,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2063,160214,Adventure
+2110,156916,Low Story,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2067,156916,Adventure
+2115,86442,Smoke and Sacrifice,NULL,2018-05-31 00:00:00.000,6,1,70.1667,6,62.0697,5,2073,86442,Adventure
+2126,50181,Wishbone and the Amazing Odyssey,NULL,1996-07-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2076,50181,Adventure
+2129,155393,LuLu Looking For Dogs,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2082,155393,Adventure
+2133,143788,Darkness Under My Bed,NULL,2021-02-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2087,143788,Adventure
+2138,149342,Orbi's Chronicles,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2096,149342,Adventure
+2161,149825,Side Effect,"Nature has been polluted with garbage created by mankind for many long years. In this first person exploration game you will discover how pollution started and how it can be stopped one garbage at a time. Land and water are littered by used plastic, paper and glass products while air consists of very dense smog.",2022-06-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2110,149825,Adventure
+2166,102319,The Internship,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2115,102319,Adventure
+2168,126522,Frequency Garden,NULL,2019-11-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2117,126522,Adventure
+2174,176350,Cleaning house,NULL,2017-12-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2122,176350,Adventure
+2176,176348,Kraft & Slash,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2125,176348,Adventure
+2178,132902,Infection Point,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2128,132902,Adventure
+2186,117057,Magic Clouds,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2136,117057,Adventure
+2188,34402,Lucky Rabbit Reflex!,NULL,2015-10-09 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,2139,34402,Adventure
+2200,127597,Terra Alia,NULL,2021-05-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2155,127597,Adventure
+2219,1989,Alter Echo,"In a world where psychics, known as shapers, can create any object they want with a substance called Plast, the best shaper of all, Paavo, develops a new type of Plast - EchoPlast. The ship of Nevin and his crew is shot down by Paavo and they crashland on his planet. The EchoPlast, having developed a conscience, asks Nevin to stop Paavo from destroying humanity with the EchoPlast's power. The EchoPlast forms a suit for Nevin to help him.",2003-08-19 00:00:00.000,NULL,NULL,62.5000,3,49.1002,4,2169,1989,Adventure
+2227,176344,Just Passing,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2179,176344,Adventure
+2233,144357,Martha,"1st of May 1996.    You are Isabelle Hewitt, a determined freelance reporter with a penchant for getting sh*t done and taking matters into your own hands. Your close work colleague, Jack Meyer, is missing and you have not heard from him in nearly two weeks. Having worked with him for over a decade, you know this is very much out of character.    Jack was in the regional outskirts of Annadeer to investigate a family who went missing from the Albrecht Estate, which is rumored to be struck by a family curse. The house has been left abandoned and now Jack is nowhere to be seen. Why so many missing people in the local area, you wonder.    The local police are reluctant to investigate, so now it’s up to you.",2021-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2183,144357,Adventure
+2238,8184,Temujin,"At the beginning of the 13th century, the Mongolian Empire was united by Genghis Khan, whose real name was Temüjin. At his death, he was buried with some mystical artifacts, one of which supposedly contained a dark and evil power. Time has passed and the tomb has remained undisturbed, until archaeologists recover the artifacts and put them on display at the Stevenson Museum. Slowly the powers of the artifacts begin to reawaken...",1997-10-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2188,8184,Adventure
+2242,113693,Dark Sauce,NULL,2019-03-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2193,113693,Adventure
+2249,117733,Baby Killer,NULL,2019-01-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2195,117733,Adventure
+2250,30010,Piximalism,NULL,2016-12-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2197,30010,Adventure
+2252,150109,Mirror House Cornflake,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2199,150109,Adventure
+2263,117769,Pulang : Insanity,NULL,NULL,NULL,NULL,NULL,NULL,70.0000,0,2205,117769,Adventure
+2268,117637,Animal Friends Adventure,NULL,2019-05-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2208,117637,Adventure
+2269,153211,Imaginaria,NULL,2021-06-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2210,153211,Adventure
+2271,106458,DrillMania,NULL,2018-08-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2213,106458,Adventure
+2274,96249,Noahmund,"""Many years ago, the war of water and fire began in Feros. The northern regions controlled the underground rivers that supplied water to the entire continent, but the southern lands were punished by drought and heat. This was the main reason for their struggle, but in the end, the beliefs of its inhabitants became stronger than thirst.  Feros was then divided, and those who agreed to keep investigating Synchrony, crossed the natural border of Bismut pass to the north, land of rivers and mountains. At that time, in the south began a cult for the drivos, dangerous creatures able to spit destructive flares. The fanatics called themselves the Drivanian and founded Salaber in the south.  Synchrony was branded as heresy from the cult and tensions began. Those who studied it were called adepts, but to their disgrace many of them were killed by the Salaber army. The tensions grew so much that the war broke out across the continent, destroying cities in its path that only remain in the memory and written history of Feros.  It is 570, the war of fire and water has continued its course, but months ago, Salaber released a powerful weapon from the top of the Bismut pass which almost destroyed the entire continent with its titanic rain of fire. Now, the ashes of war that are still burning are trying to be revived and extinguished alike.  Shinn, the capital of Barfa Rali in the north, sends Galina Angstroud as an agent to discover the truth about the rumors of a new use of that terrible weapon. Accompanied by her guardian, Berani Valenti, Urion's second heir, both follow the trail of one of the generals of the Salaber army.""",2018-08-02 00:00:00.000,1,NULL,80.0000,1,NULL,NULL,2218,96249,Adventure
+2275,121178,幻想战棋:明日帝国 Srpg of World:The Empire,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2223,121178,Adventure
+2278,30274,Werther Quest,NULL,2017-01-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2227,30274,Adventure
+2280,123465,Android Helipad,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2229,123465,Adventure
+2283,145032,Cassidy,"Playing as a crime and investigative student, you're writing a thesis for your studies on the famous manor that's home to the gruesome murders that happened in the 1950s. Originally, the manor belonged to a friendly enough Grandma, whose husband died, and people started to see her less and less. They started to hear noises, and see strange red lights coming from it. Whenever someone went to check, the Grandma was nowhere to be seen, and the manor was empty. Eventually, a new family moved in, only to be the victims of a gruesome murder where the young daughter, Cassidy, was believed to have witnessed it all.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,2235,145032,Adventure
+2284,53172,Hawaiian Explorer: Lost Island,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2237,53172,Adventure
+2299,127712,Lumin's Path,NULL,2020-01-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2244,127712,Adventure
+2310,3721,Kirby & the Amazing Mirror,NULL,2004-04-15 00:00:00.000,15,NULL,NULL,NULL,84.8264,59,2255,3721,Adventure
+2311,88127,Magikiras,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2257,88127,Adventure
+2319,22353,Skipper & Skeeto - The Shadow of Mr. Shade,"The stampede from the evil Mr. Shade leads Magnus the mosquito and Mia accidentally to the middle of Shade's factory. You now need to help them through the factory before Mr. Shade comes. But beware! For everywhere are lurking devious traps, hot-tempered robots, and mechanical guard spiders. Fortunately, they meet a cute robot Alpha, who becomes their friend in need!",1998-12-31 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,2265,22353,Adventure
+2326,70299,XZR,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2268,70299,Adventure
+2328,43327,Spy Fiction,NULL,2003-12-25 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,2269,43327,Adventure
+2329,111675,Mò The Frog,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2270,111675,Adventure
+2331,95272,Escape from pyramid,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2272,95272,Adventure
+2333,72052,Jewels II: The Ultimate Challenge,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2276,72052,Adventure
+2336,124176,Agent Roswell,NULL,NULL,NULL,NULL,NULL,NULL,70.0000,0,2278,124176,Adventure
+2342,44717,Dual Hearts,NULL,2002-10-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2284,44717,Adventure
+2344,176328,Adventure Machine,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2286,176328,Adventure
+2349,122103,Haunted House Mysteries,NULL,2013-10-18 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,2291,122103,Adventure
+2350,86362,Abo Khashem,NULL,2018-02-23 00:00:00.000,NULL,NULL,NULL,NULL,60.0000,0,2293,86362,Adventure
+2351,32148,Tears Revolude,NULL,2017-01-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2296,32148,Adventure
+2358,92956,Flux,NULL,2020-04-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2305,92956,Adventure
+2363,133256,You and Me and Her: A Love Story,"Life is like a staircase. You just gotta keep climbing. Otherwise, if you start to overthink it, you'll have trouble taking the next step.  Shinichi wants nothing more than to lead a quiet life. Though he was once close friends with Miyuki, the most popular girl in school, his desire for normalcy now keeps them from being anything more than classmates.  Everything changes, however, one day on the roof, when the class oddball, Aoi, suddenly tries to kiss him. Miyuki appears just in time to stop her, but afterward, Shinichi feels the urge to bring some light to this friendless girl's eyes. He enlists Miyuki's aid, and thus, a trio is born.  The days pass, and little by little, Aoi learns what it means to be friends. But at the same time, long-dormant feelings awaken in Miyuki's heart. As the distance between her and Shinichi shrinks, the hard-earned bonds the three share begin to fray.  Miyuki or Aoi－when the time comes, which will Shinichi choose?",2013-06-28 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,2308,133256,Adventure
+2365,118734,Luna Sky RDX,NULL,2019-08-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2310,118734,Adventure
+2369,132484,Lusitania,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2314,132484,Adventure
+2371,156926,"Lux, City of Secrets",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2319,156926,Adventure
+2372,35430,Heaven Forest NIGHTS,NULL,2017-03-14 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,0,2321,35430,Adventure
+2391,164268,The Jovian System,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2331,164268,Adventure
+2397,149305,Lux: The Journey,NULL,2021-06-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2334,149305,Adventure
+2403,103813,Queen of Spades,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2339,103813,Adventure
+2410,125212,Sternenschweif 3D - Das Geheimnis im Zauberwald,NULL,2011-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2345,125212,Adventure
+2426,192507,Back again,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2359,192507,Adventure
+2435,81207,Outpost Zero,NULL,2018-07-12 00:00:00.000,NULL,NULL,50.0000,1,60.0000,0,2370,81207,Adventure
+2439,50313,Brink of Consciousness: Dorian Gray Syndrome,NULL,2011-12-26 00:00:00.000,2,1,NULL,NULL,80.0000,3,2377,50313,Adventure
+2440,181853,Don't Call Me Mama But Yes I Am Your Mama,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2378,181853,Adventure
+2445,95356,Knytt,"The Knytt, a weird little creature, gets abducted from his native planet by an alien. However, before reaching its supposed destination, the alien's ship crashes against an asteroid, and the alien makes an emergency landing on a nearby planet. If he ever wants to get home again, the Knytt must help the alien recover the parts of the spaceship which has been scattered all over the strange planet.",2006-12-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2383,95356,Adventure
+2473,106530,Tetra's Escape,"Via the means of shape-shifting, Tetras can turn into different Tetrominos and used to fill holes and master puzzles, in an attempt to reach the portal on the other side of the level.  But, don't just go expecting a linear adventure, as sometimes crafting a staircase to the heavens is the only way to make it to the end, so if you dare to dream big and go block mad, you might just have what it takes to bring all the Tetra’s back home!",2018-08-08 00:00:00.000,NULL,NULL,NULL,NULL,77.0000,4,2403,106530,Adventure
+2480,155967,Immunity Tales,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2407,155967,Adventure
+2485,84084,President Trump The Way In Uganda,NULL,NULL,NULL,NULL,NULL,NULL,70.0000,0,2413,84084,Adventure
+2495,131636,JekoosWare,NULL,2020-03-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2415,131636,Adventure
+2497,29021,Battleship Bishojo,NULL,2017-03-29 00:00:00.000,NULL,NULL,NULL,NULL,40.0000,0,2419,29021,Adventure
+2499,35671,STATIC: Investigator Training,NULL,2015-04-14 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,0,2423,35671,Adventure
+2500,100529,Light Cube,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2425,100529,Adventure
+2501,122002,Trucker's Dynasty - Cuba Libre,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2429,122002,Adventure
+2503,70735,Jerusalem: The Three Roads to the Holy Land,"1552. Lord of the Ottoman dynasty, Sulaiman the Magnificent, reigns over the greatest empire in the world. In Jerusalem, the holy city where King David had built the Temple, where Christ preached and where the Prophet Mohammed was swept off to meet Allah, the three religions of the Book live in peace. Having become the confidante to the emissary of Sulaiman the Magnificent, Adrian is faced with the task of untangling the web of intrigue threatening the fragile balance that has been reached by the three communities of the Book. He will have to cooperate with the representative of all three communities in order to save the governor’s daughter.",2002-12-31 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,2430,70735,Adventure
+2508,5440,Kirby Triple Deluxe,NULL,2014-01-11 00:00:00.000,14,NULL,78.5455,11,85.0000,39,2439,5440,Adventure
+2512,192501,Manacircle,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2442,192501,Adventure
+2525,142804,Obsolete,NULL,2020-08-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2461,142804,Adventure
+2538,132761,Land of Zympaia,NULL,2020-07-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2473,132761,Adventure
+2545,126785,The Adventures of Looppy,NULL,2020-03-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2480,126785,Adventure
+2550,15710,Aviary Attorney,"The year is 1848.  Paris is on the brink of yet another revolution, and the prisons are overflowing with guilty and innocent alike.  One man stands for justice amid society's chaos. No. One bird...  Play the role of Monsieur Jayjay Falcon, a bird of prey with a good heart and questionable lawyering expertise. Join him and his witty apprentice, Sparrowson, as the two take on clients, interview witnesses, collect evidence, and deliver justice to the guilty.",2015-12-22 00:00:00.000,7,NULL,79.3333,5,75.1621,18,2484,15710,Adventure
+2553,105429,I saw IT,NULL,NULL,NULL,NULL,NULL,NULL,40.0000,0,2490,105429,Adventure
+2554,183667,Lurking II: A Madness,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2493,183667,Adventure
+2563,127520,Crazy Ball Racing,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2502,127520,Adventure
+2577,137136,Rogue Summoner,"Rogue Summoner is a turn-based tactics roguelike about conjuring creatures to fight for you. It's a game about mastering different monster behaviors and using them creatively in combat.    You will dive deep into different types of procedurally-generated dungeons, each with its unique difficulty, size and creatures. Death in each one means starting over from the very beginning of the dungeon, with no upgrades nor monsters in your loadout. But with death comes understanding and hidden knowledge of the dungeons' secrets.    As you master each unique creature, you will be able to optimize your strategy by exploiting their weaknesses when fighting against them, and leveraging their strengths when summoning them. Every creature you defeat can be added to your loadout, from a half-witted spider to the great Morthgaal.",2020-09-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2516,137136,Adventure
+2579,57391,Major\Minor,NULL,2016-10-12 00:00:00.000,NULL,NULL,NULL,NULL,80.0000,1,2520,57391,Adventure
+2583,134484,YellowDream,NULL,2020-06-07 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL,2527,134484,Adventure
+2585,130902,SKYE,NULL,2020-06-18 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL,2530,130902,Adventure
+2603,183690,Deify,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2546,183690,Adventure
+2608,25789,Don't open the doors!,NULL,2016-11-11 00:00:00.000,NULL,NULL,60.0000,2,60.0000,0,2549,25789,Adventure
+2610,118470,Abandoned Snowy Castle,NULL,2019-05-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2551,118470,Adventure
+2614,88801,Misa!,NULL,2017-12-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2557,88801,Adventure
+2632,186715,Dragoncrest RPG: Arc 1,NULL,2022-08-31 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL,2565,186715,Adventure
+2633,92720,Lew Leon,NULL,1996-11-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2568,92720,Adventure
+2640,192460,Furry Hentai Quest,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2576,192460,Adventure
+2648,192456,Just Ignore Them: Brea's Story Tape 1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2582,192456,Adventure
+2650,192511,Fear Of The Darkness,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2586,192511,Adventure
+2654,183702,Chicken Butt,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2589,183702,Adventure
+2661,176319,Ducklings,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2592,176319,Adventure
+2672,188922,Wreckdigger,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2601,188922,Adventure
+2686,107915,Retro Snake Adventures,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2610,107915,Adventure
+2705,77940,"I Wish... Todoke, Kono Omoi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2622,77940,Adventure
+2708,183700,Cycle,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2625,183700,Adventure
+2717,157091,Pond Scum,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2629,157091,Adventure
+2720,154013,LumberQwaxes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2633,154013,Adventure
+2724,183710,Back Four Seconds,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2637,183710,Adventure
+2731,186496,Blossom: La Jirafa Saga,NULL,2022-01-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2639,186496,Adventure
+2733,14770,Enigme A Oxford,NULL,1989-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2641,14770,Adventure
+2746,180426,Dungeon Squeaker,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2647,180426,Adventure
+2762,72477,Blood+: Souyoku no Battle Rondo,NULL,2006-07-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2655,72477,Adventure
+2765,192444,Milf Hunter,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2659,192444,Adventure
+2768,182529,Outscore,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2661,182529,Adventure
+2771,192462,WTC: Recruitment Day,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2664,192462,Adventure
+2772,130415,Monster Hunter Riders,NULL,2020-02-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2668,130415,Adventure
+2776,34656,Rot Gut,NULL,2016-07-12 00:00:00.000,1,NULL,NULL,NULL,80.0000,3,2673,34656,Adventure
+2779,190797,Move That Box!,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2675,190797,Adventure
+2794,151526,Goblin Dungeoneer,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2684,151526,Adventure
+2803,18221,Kirby: Planet Robobot,NULL,2016-04-28 00:00:00.000,10,NULL,82.2667,16,87.7104,25,2693,18221,Adventure
+2807,107472,Burning Instinct,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2696,107472,Adventure
+2819,110655,Fallen Sky Online,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2706,110655,Adventure
+2829,137887,VoxStory,NULL,2022-03-31 00:00:00.000,NULL,2,NULL,NULL,NULL,NULL,2713,137887,Adventure
+2830,108905,Delivery from the Pain,"In 201x, an anti-cancer research institute announced the discovery of the key to eternal life. In response to this breakthrough, Faith Energy Company concocted a vaccine-driven startup, the “Human X Plan.” However, the vaccine failed, with disastrous results: All infected humans were turned into zombies. The area where you live has been severely affected. To survive, and uncover the conspiracy surrounding the Human X Plan, you begin your journey.    During your travels, you will meet the poor, beautiful mother and her daughter in the police station, the doctor at Smith Hospital, the cunning liar, the developmentally and physically disabled man, the jealous beauty, and the twin brothers with distinct personalities. Do you want to see them all survive to the end? At what cost? What secrets will you uncover in the abandoned tapes, newspapers, magazines and files that you find along your way? Will you gain the wisdom AND discover the password necessary to escape?",2019-06-12 00:00:00.000,1,1,NULL,NULL,NULL,NULL,2716,108905,Adventure
+2836,59140,Crazy Scientist,NULL,2017-09-20 00:00:00.000,NULL,NULL,NULL,NULL,40.0000,0,2719,59140,Adventure
+2846,71465,Queensrÿche's Promised Land,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,2731,71465,Adventure
+2848,73535,The First Mile,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2733,73535,Adventure
+2850,130188,Lodestone: The crazy cave adventures of mad Stony Tony and his encounter with the exploding rolling stones,NULL,2019-10-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2734,130188,Adventure
+2851,121616,Danger World,NULL,2019-01-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2738,121616,Adventure
+2855,87130,Blood & Glory 2: Legend,NULL,2012-06-09 00:00:00.000,NULL,NULL,NULL,NULL,90.0000,0,2740,87130,Adventure
+2871,156965,Blue Energy,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,2754,156965,Adventure
+2877,54338,Lost In Purple,NULL,2017-08-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2758,54338,Adventure
+2890,114972,Tiny Dangerous Dungeons,NULL,2015-03-25 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,2769,114972,Adventure
+2901,28791,TankBlitz,NULL,2017-04-21 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,1,2773,28791,Adventure
+2903,5593,Daylight,"The plot is centered around a woman named Sarah who regains consciousness in an abandoned hospital with no memory of how she got there. A mysterious voice tells her to find the secrets of the hospital. With a cell phone, which is her flashlight and map, she must explore the haunted hospital and its criminal past in order to escape.",2014-04-29 00:00:00.000,1,NULL,49.7000,12,49.6232,16,2776,5593,Adventure
+2910,82983,Sei Yariman Sisters ♥ Pakopako Nikki,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2781,82983,Adventure
+2917,55221,Shots Fired,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2791,55221,Adventure
+2919,146946,Digerati Presents: Make It Quick Bundle Vol. 1,NULL,2020-10-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2795,146946,Adventure
+2936,129937,Winter Snow | 冬雪,NULL,2019-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2804,129937,Adventure
+2942,183738,Peripeteia: Land of Folklore,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2807,183738,Adventure
+2945,89939,Sol705,Escape school to obtain some extra points by making contact with an alien race?  Easy !    Save the Universe by re-tuning some weird dimensional chords?  Most probably !    Find a new bass player to join our band just in time for the local concert?  Heavy problematic !,2020-07-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2812,89939,Adventure
+2950,73823,Denis Through the Drinking Glass,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2815,73823,Adventure
+2954,84603,Molly Maggot,NULL,2015-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2816,84603,Adventure
+2955,176076,Necore Tower: Redux Edition,"Word had just been received by the royal scouts that there was trouble at Necore Tower. When that word reached the King's ear, for in fear of the return of the Dark Arcane Wielders, newly crowned King, Garlen Hastein, swiftly rallied his troops and his most faithful protectors, the Crimson Guard to march on Necore Tower.  In an attempt to avoid detection by whomever or whatever had tainted the tower, Garlen brought his troops to the rear entrance of the tower. The pilgrim's entrance.  However, it seemed that it was all in vain, as no sooner had Garlen entered the clearing, a tree, that had been standing strong for millennia, fell, nearly crushing him and those behind him to death. Upon further investigation, the tree had been warded with ancient magic, an ancient magic that made Garlen shiver.  Trapped now with limited supplies, a few of his Crimson Guard and Samuel Blackthorn his Family's most entrusted protector. Garlen must ascend the tower and defeat whatever may be waiting for him.  But, can it be done?....",2021-10-20 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL,2818,176076,Adventure
+2979,183740,The Train To Thrinacia,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2835,183740,Adventure
+2981,192516,Void Soul Awakening,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2837,192516,Adventure
+2997,181489,Soul Cipher: The Code Within,"Awake as a military grade sentient robot from the EXO series, in a strange deserted facility. Alone, you will have to uncover the mystery of your creation and the purpose of your awakening while you explore the ruins of a forsaken world ran by corrupted machines.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,2849,181489,Adventure
+3025,46277,Double Dragon III: The Arcade Game,NULL,NULL,NULL,NULL,NULL,NULL,54.0000,0,2863,46277,Adventure
+3032,96536,Panmorphia,NULL,2014-12-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2872,96536,Adventure
+3035,190092,Cold House,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2874,190092,Adventure
+3041,57016,Sinjid: Battle Arena,NULL,2003-08-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2879,57016,Adventure
+3048,93865,Forever Lost: Episode 3,NULL,2015-07-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2883,93865,Adventure
+3066,1876,Spore,NULL,2008-09-04 00:00:00.000,59,1,82.0000,7,73.5058,243,2892,1876,Adventure
+3075,190149,Сhick Boy Adventures,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2898,190149,Adventure
+3076,24423,Pokémon Trading Card Game Online,NULL,2011-03-24 00:00:00.000,96,1,NULL,NULL,62.8710,38,2902,24423,Adventure
+3078,99279,Forever Lost: Episode 2,NULL,2013-06-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2906,99279,Adventure
+3086,33902,A Chair in a Room: Greenwater,NULL,2016-03-30 00:00:00.000,NULL,NULL,NULL,NULL,80.0000,0,2916,33902,Adventure
+3087,192512,Philosopher's Stone and Minerva,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2918,192512,Adventure
+3090,176142,Working Tidal,"Is contract salvage diving right for you? It probably is! Here's why:  - Ultimate flexibility  You won't really have a job, not according to our paperwork! This means you can take a better job offer at any time, if you ever get one.  - Be your own Boss  You know what's best for you. Choose your own hours! Choose 80 of them every week if you want!  - Meet new people  There are people diving with Oonder, LLC for all kinds of reasons. You will encounter people of all ages and from some backgrounds diving for cash.  - Listen to music while you work (Note: Oonder is not responsible for collisions that occur while diver is distracted, and will not respond to inquiries related to incidents)  Every year, billions of dollars in assets are lost to the deep. By diving with Oonder, you can do your part to recover some of those losses for some of the biggest, most important business entities on the planet. Awesome!  We'll even lend you a submarine.  Once you sign our user agreement, you'll receive your very own decommissioned nuclear submarine, retrofitted with some of the equipment necessary to dive for loot. No need to thank us.",2021-09-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2921,176142,Adventure
+3091,110803,Rooms: The Adventure of Anne & George,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2923,110803,Adventure
+3093,143830,Pascal's Wager: Definitive Edition,"The Colossus, mysterious creatures that dispelled the Dark Mist that once engulfed the land of Solas, has fallen. As Couriers, you will explore various handcrafted locales in this intriguing world full of secrets, hidden mysteries, and stories. The veiled truth of Solas awaits your discovery...",2021-03-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2926,143830,Adventure
+3100,121591,Locked & Loaded,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2936,121591,Adventure
+3101,192468,Hungry Zombies,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2938,192468,Adventure
+3114,192490,Bad Cat,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2943,192490,Adventure
+3118,192489,Dagada's Story,NULL,2023-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2948,192489,Adventure
+3125,62947,Ronja Rövardotter,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2952,62947,Adventure
+3126,88750,Lost Souls: Enchanted Paintings,NULL,2011-11-12 00:00:00.000,NULL,NULL,NULL,NULL,90.0000,1,2953,88750,Adventure
+3149,69966,Ray Bradbury's The Martian Chronicles Adventure Game,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2968,69966,Adventure
+3156,54643,The Spy's Adventures in South America,NULL,1987-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2975,54643,Adventure
+3168,81909,Exo One,NULL,2021-11-18 00:00:00.000,1,3,NULL,NULL,70.0815,12,2980,81909,Adventure
+3175,71277,EVE Zero: Ark of the Matter,NULL,2001-03-22 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2986,71277,Adventure
+3201,153040,Trap Adventure,NULL,2021-06-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,2996,153040,Adventure
+3206,158119,Addle Earth,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3000,158119,Adventure
+3211,143566,PowerBots RETRO,You've been recruited by a group of instructor robots for the new human assistance program: Project RETRO. Join other PowerBots in helping the Power Town inhabitants escape from rogue robots and haunting souls.,2021-09-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3005,143566,Adventure
+3226,163663,Somewhere in the Shadow,NULL,2021-08-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3017,163663,Adventure
+3228,108542,Linkage,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3020,108542,Adventure
+3231,188742,Thalamus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3024,188742,Adventure
+3239,1592,Fable: The Journey,NULL,2012-10-09 00:00:00.000,2,NULL,63.1250,10,70.0000,1,3028,1592,Adventure
+3242,107896,Ayni Fairyland,NULL,2019-01-21 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL,3031,107896,Adventure
+3252,35386,Shadow Hunter,NULL,2015-04-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3037,35386,Adventure
+3257,123725,Karar X,NULL,NULL,NULL,NULL,NULL,NULL,70.0000,0,3044,123725,Adventure
+3258,96354,The Road to Hades,NULL,2018-04-12 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,0,3046,96354,Adventure
+3259,149179,Savage Steel,NULL,2022-08-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3050,149179,Adventure
+3263,116937,Marvin The Hatter,NULL,2019-04-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3052,116937,Adventure
+3269,96103,Gohan Quest,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3057,96103,Adventure
+3271,130215,Voyagers,NULL,2019-11-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3060,130215,Adventure
+3278,72172,Drug Wars: A Game Based on the New York Drug Market,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3066,72172,Adventure
+3279,62393,Spades,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,3070,62393,Adventure
+3284,109478,Atlas: Groundbreaking Adventures,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3075,109478,Adventure
+3290,54871,The Flying Turtle Jewel Quest,NULL,2017-08-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3082,54871,Adventure
+3294,13162,Konung III: Ties of the Dynasty,NULL,2009-11-06 00:00:00.000,2,NULL,NULL,NULL,70.0000,1,3086,13162,Adventure
+3298,86225,Date A Live: Arusu Install - Limited Edition,NULL,2014-06-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3089,86225,Adventure
+3309,122438,The Drama Queen Murder,NULL,2019-07-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3097,122438,Adventure
+3311,129513,Small World Z,NULL,2020-01-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3102,129513,Adventure
+3316,96904,Semi-Sweet Tofu,NULL,2018-05-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3107,96904,Adventure
+3327,34518,Atari Vault,NULL,2016-03-24 00:00:00.000,3,NULL,NULL,NULL,60.0000,3,3119,34518,Adventure
+3338,73691,A Dark and Stormy Entry,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3127,73691,Adventure
+3340,65755,Trailer Park King,NULL,2011-07-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3129,65755,Adventure
+3346,115118,Interrogation: You Will Be Deceived,"Be the lead detective that brings down a mysterious terrorist organization: The Liberation Front. Use a complex conversational simulation system to interrogate and psychologically manipulate realistic suspects in a noir game about political radicalization and authority abuse.  Rich or poor, progressive or conservative, women or men, the Liberation Front's potent lure fills its ranks with people from all layers and corners of society. They want to violently dismantle social order as we know it and to rebuild it from the ground up. Can you stop them? Will you stop them?  In the pursuit of terrorist organization The Liberation Front, you have to coordinate your team to gather information, manage your limited budget and deal with the press hot on your heels for a good story. But that is only half of it:Your main task as lead investigator is interrogating suspects. Understanding their backgrounds, and thus their motivations, is key in choosing whether intimidation, guile or empathy is the right approach. There is no universal solution – but the clock is ticking relentlessly.  As you’re closing in on the true culprits and your suspects are getting more resistant, the interrogations become increasingly difficult. Uncover the truth through complex conversations, psychological manipulation and other techniques.  The Liberation Front will not be easily dismantled.",2019-12-05 00:00:00.000,1,1,79.0000,1,70.0000,2,3138,115118,Adventure
+3348,152000,Tiny Planet Protectors,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3142,152000,Adventure
+3349,59247,YOU ARE KING,NULL,2017-09-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3146,59247,Adventure
+3355,403,Final Fantasy Legend II,"""...MAGI... The symbol of great power. The legacy of the ancient gods who made this world. Many fought for the mighty power. Some won and some failed. Now.... another legend of bravery is about to begin.... —Intro A great tower is located in the world and connects various other worlds together. All these worlds contain MAGI, fragments of an ancient Goddess who existed several eons ago. The party sets out to gather the MAGI to prevent those with sinister methods from collecting it and becoming new Gods.",1990-12-14 00:00:00.000,2,NULL,NULL,NULL,86.5752,5,3152,403,Adventure
+3364,7268,Akiba's Trip: Undead & Undressed,NULL,2013-11-07 00:00:00.000,7,NULL,64.1429,9,40.5064,18,3157,7268,Adventure
+3366,1510,Epic Mickey 2: The Power of Two,NULL,2012-11-18 00:00:00.000,1,NULL,52.1111,9,69.8102,7,3160,1510,Adventure
+3367,134271,TimeOut,"In a city where the lives of humans are subjected to a time based currency system, you play the role of a hard up detective who goes on the hunt for a seller of fake time.",2020-05-08 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,3161,134271,Adventure
+3373,36126,Don't Move,NULL,2013-09-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3168,36126,Adventure
+3383,2723,Diddy Kong Racing,Timber the Tiger's parents picked a fine time to go on vacation. When they come back they're going to be faced with an island trashed by the spiteful space bully Wizpig - unless the local animals can do something about it! So join Diddy Kong as he teams up with Timber the Tiger Pipsy the Mouse and Taj the Genie in an epic racing adventure unlike anything you've ever experienced before! This unique game blends adventure and racing like no other game! Roam anywhere you want on the island by car plane or hovercraft! An enormous amount of single-player and multi-player modes! Feel the action when you use the N64 Rumble Pak and save your times on the N64 Controller Pak!,1997-11-21 00:00:00.000,29,NULL,50.0000,1,79.4530,122,3178,2723,Adventure
+3386,171746,Doctor Xenophon's Laboratory,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3182,171746,Adventure
+3395,190809,Ninja Blast,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3191,190809,Adventure
+3399,106838,Tokyo Wizard,NULL,2019-09-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3193,106838,Adventure
+3415,150271,Blind Descent,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3209,150271,Adventure
+3426,80940,Struckd - 3D Game Creator,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3215,80940,Adventure
+3440,12380,Toaru Kagaku no Railgun,NULL,2011-11-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3224,12380,Adventure
+3447,99615,BattleBeasts,NULL,2021-05-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3229,99615,Adventure
+3452,34554,Colony Assault,NULL,2015-12-15 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,0,3235,34554,Adventure
+3454,106509,Project Skylab,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3237,106509,Adventure
+3496,158208,Butt Naked & Big Guns,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3254,158208,Adventure
+3500,57039,Little People,NULL,2017-09-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3260,57039,Adventure
+3501,176396,Voxel Pirate,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3262,176396,Adventure
+3514,176386,Joanie,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3272,176386,Adventure
+3519,86539,Only You,NULL,NULL,NULL,NULL,NULL,NULL,50.0000,0,3275,86539,Adventure
+3523,41737,Shiryou Sensen: War Of The Dead 2,NULL,1988-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3277,41737,Adventure
+3526,77856,Gyakujoku Hiai: Mistress,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3279,77856,Adventure
+3527,65160,Super Chicks,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3280,65160,Adventure
+3532,96427,Bishi and the Alien Slime Invasion!,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3281,96427,Adventure
+3535,133142,Mystery Tales: Til Death - Collector's Edition,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3284,133142,Adventure
+3536,153967,Calmed by the Dark Leviathan,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3285,153967,Adventure
+3542,33690,Pixel Z - Gun Day,NULL,2016-01-14 00:00:00.000,NULL,NULL,NULL,NULL,40.0000,0,3291,33690,Adventure
+3544,77606,Sei Monmusu Gakuen,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3293,77606,Adventure
+3547,116216,The Scuttle,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3296,116216,Adventure
+3548,31042,Kommissar,NULL,2017-04-06 00:00:00.000,NULL,NULL,NULL,NULL,40.0000,0,3300,31042,Adventure
+3563,11947,Battlemaster,"The world was enmeshed in a terrible conflict. Humans mistrusted Dwarves, Dwarves hated Elves, Elves despised Orcs, and Orcs hated everyone. The rivers ran with the blood of battle and the land stank only of death. Civilization was spiraling towards decay.    AND THEN THE WATCHER CAME.    He prophesied that a leader would emerge from the south. A leader brave enough to stand face to face with dragons and survive, shrewd enough to solve the most complex enigmas and experienced enough to know when to parley and when to fight. He would be someone familiar with magic, capable of intelligent strategy who would buy, loot and barter with one single aim, to gather a powerful force of men, win back the four king's crowns and restore the world to everlasting peace.    The Watcher has issued his challenge. Dare you take it up?",1990-09-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3314,11947,Adventure
+3580,88899,VR Roller Coaster,NULL,2016-01-16 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,3325,88899,Adventure
+3597,104309,Cube Survival: LDoE,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3331,104309,Adventure
+3604,104259,Jurassic World Revealed,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3338,104259,Adventure
+3610,30556,Dead Inside,NULL,2017-03-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3343,30556,Adventure
+3612,19579,Blades of Exile,NULL,1997-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3349,19579,Adventure
+3614,110342,吞食孔明传 (Tunshi Kongming Legends),NULL,2019-04-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3353,110342,Adventure
+3617,176393,Haul Away Joe,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3356,176393,Adventure
+3625,60953,Hyakka Yakou,NULL,2015-02-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3362,60953,Adventure
+3629,183785,Empty Void,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3364,183785,Adventure
+3631,11091,Amerzone: The Explorer's Legacy,NULL,1999-03-18 00:00:00.000,2,NULL,NULL,NULL,72.6087,8,3365,11091,Adventure
+3634,75811,Awe of Despair,NULL,2017-11-22 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3369,75811,Adventure
+3644,192403,Californication,NULL,2022-02-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3378,192403,Adventure
+3660,68191,The Herbologist,NULL,2017-10-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3382,68191,Adventure
+3677,117854,Cell Defender,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3395,117854,Adventure
+3678,73536,Blades of Avernum,NULL,2004-03-17 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,3397,73536,Adventure
+3699,132795,Lucen,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3405,132795,Adventure
+3700,117319,New Robinson,NULL,1999-12-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3408,117319,Adventure
+3703,104680,Achaem,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3413,104680,Adventure
+3707,1088,Donkey Kong 3,"Donkey Kong breaks into Stanley's greenhouse and goes to hang in the rafters where he stirs up nests of bugs, which will destroy Stanley's flowers in revenge. Armed with a Sprayer, Stanley must destroy the bees and chase Donkey Kong away before he eats all five of his flowers.",1983-10-31 00:00:00.000,4,NULL,NULL,NULL,59.5754,27,3418,1088,Adventure
+3719,96459,Angel's Love,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3422,96459,Adventure
+3722,76542,Spreadstorm,NULL,2017-12-01 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,3425,76542,Adventure
+3723,126872,Suka's Escape,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3428,126872,Adventure
+3759,44733,Gensō Suikogaiden: Swordsman of Harmonia,NULL,2000-10-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3449,44733,Adventure
+3763,149961,Escape from Naraka,NULL,2021-07-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3451,149961,Adventure
+3764,134485,BIT RAT : Singularity,NULL,2018-01-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3454,134485,Adventure
+3775,99800,The Walking Dead: Complete Second Season,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3460,99800,Adventure
+3776,153336,狗蛋神冒险: 很傻很天真,NULL,2021-04-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3461,153336,Adventure
+3781,14004,City of Death,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3464,14004,Adventure
+3786,106417,Rugosi,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3467,106417,Adventure
+3789,31027,Space Cat,NULL,2016-12-01 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,3469,31027,Adventure
+3794,1080,New Super Mario Bros. 2,"Mario and Luigi visit Princess Peach’s Castle. As usual, they enjoy chatting with Princess Peach about their adventures. As Princess Peach waves farewell, Mario and Luigi use tail transformations to snag a bunch of Coins from the sky. No sooner do they land for a break than a black shadow approaches overhead. They hear a loud boom as Bowser’s minions appear in an aircraft and slam to the ground right on top of them. In surprise, they stare as Princess Peach appears and calls for help. She’s been kidnapped again! The heroes set out in pursuit and a new adventure begins!",2012-07-28 00:00:00.000,28,NULL,77.0833,13,72.2166,92,3475,1080,Adventure
+3800,59157,Genroh,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3480,59157,Adventure
+3818,73838,Riglord Saga 2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3497,73838,Adventure
+3834,158759,Harvest Green,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3513,158759,Adventure
+3838,182752,At Dawn's Edge,NULL,2020-10-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3517,182752,Adventure
+3841,169496,Orb Tour,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3519,169496,Adventure
+3845,111378,NEONARCADE: adventure puzzle muse,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3525,111378,Adventure
+3849,57398,The Camp - Caravan Edition,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3528,57398,Adventure
+3858,181192,Rusty Blade,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3536,181192,Adventure
+3859,189814,Animal Simulator,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3538,189814,Adventure
+3860,103427,Destiny of Altrais,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3541,103427,Adventure
+3866,107200,Mr. Steal Yo Wifi,NULL,2018-01-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3547,107200,Adventure
+3868,133213,Buck Bradley: Comic Adventure,NULL,2022-03-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3549,133213,Adventure
+3873,73088,Castle Ralf,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3554,73088,Adventure
+3875,102804,Stranded Near Nowhere,NULL,2018-03-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3555,102804,Adventure
+3877,120910,Mad Cat's World,NULL,2020-04-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3557,120910,Adventure
+3880,189812,Srok Godnosti,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3559,189812,Adventure
+3892,47705,Hotel Transylvania,NULL,2012-09-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3570,47705,Adventure
+3893,148234,Stages of Grief,NULL,2021-05-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3571,148234,Adventure
+3899,114103,The Block Box,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3575,114103,Adventure
+3907,32559,V ARRR,NULL,2016-06-10 00:00:00.000,NULL,NULL,NULL,NULL,60.0000,0,3586,32559,Adventure
+3932,13598,Dodgy Geezers,NULL,1986-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3606,13598,Adventure
+3946,64722,Sanatorium,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3611,64722,Adventure
+3948,134153,Superman: The Man of Steel,NULL,1993-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3614,134153,Adventure
+3963,172726,"Lonley, Lustful, Arrogant, Hateful",People het chosen or volunteer for a dystopic gameshow where you have to solve puzzles and challenges or die.,2021-10-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3631,172726,Adventure
+3964,96884,Dark Dimensions: Somber Song - Collector's Edition,NULL,2018-04-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3633,96884,Adventure
+3968,123953,Trails of the Black Sun,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3635,123953,Adventure
+3973,103623,Cherry in the Sky,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3640,103623,Adventure
+3977,125367,Featherfall,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,3644,125367,Adventure
+3984,106821,Soundfall,"You play as Melody, a talented young audiophile mysteriously transported to Symphonia, a world where music comes to life. You’ll befriend endearing allies, wield powerful abilities and legendary weapons against a horde of malicious adversaries as you race to halt the return of an unfathomable darkness, Discord.",2022-12-31 00:00:00.000,NULL,5,NULL,NULL,NULL,NULL,3653,106821,Adventure
+3989,89431,My Racing Career,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3659,89431,Adventure
+3990,113752,final m00n - Defender of the Cubes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3663,113752,Adventure
+3993,74860,Super Turbo Demon Busters!,NULL,2017-11-27 00:00:00.000,NULL,NULL,80.0000,1,60.0000,1,3666,74860,Adventure
+4002,58573,Chandragupta: Warrior Prince,NULL,2009-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3681,58573,Adventure
+4009,192052,Pajama Sam: No Need to Hide When It's Dark Outside,NULL,2022-02-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3685,192052,Adventure
+4014,99431,Sophont,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3688,99431,Adventure
+4017,183754,Nascent Prophecy,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3693,183754,Adventure
+4019,2796,All Grown Up!: Express Yourself,NULL,2004-10-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3695,2796,Adventure
+4025,183756,Seneca,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3701,183756,Adventure
+4029,115351,Refoil,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3705,115351,Adventure
+4036,41474,King of the Mountain,NULL,1999-01-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3709,41474,Adventure
+4037,27212,Hogi's Adventure,Hogi’s Adventure is an addictive ‘2D infinite runner’ game. You play the role of a scarecrow (Hogi) who is on an adventure to find inner peace by running through beautiful hills and long-abandoned ruins.,2017-04-14 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,3711,27212,Adventure
+4051,183755,Meat,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3723,183755,Adventure
+4055,62000,The 7th Guest 3: The Collector,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3728,62000,Adventure
+4056,28737,Tarotica Voo Doo,NULL,2017-12-29 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,3730,28737,Adventure
+4062,116270,At Home,NULL,NULL,NULL,NULL,NULL,NULL,40.0000,0,3733,116270,Adventure
+4064,65119,Rita James and the Race to Shangri La,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3736,65119,Adventure
+4073,129623,Greed,NULL,2021-07-10 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,3742,129623,Adventure
+4074,22212,Echo Tokyo: Intro,NULL,2016-01-27 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,0,3744,22212,Adventure
+4082,78627,Jungle Monk,NULL,2017-12-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3751,78627,Adventure
+4084,35208,Waste Walkers,NULL,2015-06-01 00:00:00.000,1,NULL,NULL,NULL,80.0000,1,3756,35208,Adventure
+4100,34667,Distrust,"They were on a routine rescue mission when a helicopter crash left the two survivors stranded near an abandoned Arctic base. To find a way back, they must explore the base, moving from sector to sector, fighting the severe cold and searching for food and equipment.  There's something else, too. Something that should not exist but does. The thing, that enters their sleep and suck the life out of their bodies...  Staying awake seems like a safe option, but the lack of sleep is exhausting and leads to hallucinations. Eventually, the survivors will close their eyes and fall prey to the unknown, terrifying force - unless you can somehow strike a balance between exhaustion and falling into a sleep from which one might never awake.",2017-08-23 00:00:00.000,10,1,80.0000,1,56.4572,10,3769,34667,Adventure
+4112,192042,Polgar Magic Detective: Murder Mystery Journey,NULL,2022-02-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3783,192042,Adventure
+4119,122094,Fermament,"A gasp for air... a release of chilled breath... the crackling sounds of melting ice.    You wake in a glacial cavern — perfused by blue. It's crowded with metal pipes and adorned with curious, clockwork gears.    Echoing machinery resonates in your ears as a massive metal door opens before you...    As you enter a dark chamber, warm lights flicker to life, revealing a frigid, yet intimate stone interior, supported by riveted iron beams. In the middle of this room is an ancient table - a tea cup on one end and a frozen body slumped over the other. The corpse’s hands hold an exquisite clockwork device — held out like an offering.    You reach for the device, and suddenly… a small whir… a blue glow is birthed from its core as it comes to life and lifts from the outstretched palms of the rigid stranger. It hovers above you, watching.    An apparition appears with a message from the woman that left this gift. She planned to mentor you...    ...but something has gone terribly wrong.",NULL,NULL,1,NULL,NULL,NULL,NULL,3791,122094,Adventure
+4123,43067,Slave of War VR,NULL,2017-08-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3794,43067,Adventure
+4131,23671,Outdoors Unleashed: Africa 3D,NULL,2012-08-30 00:00:00.000,NULL,NULL,73.0000,1,NULL,NULL,3804,23671,Adventure
+4135,111244,Strange Encounter,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3806,111244,Adventure
+4136,176399,Treasure Cave,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3808,176399,Adventure
+4141,161420,100 hidden eternals,NULL,2020-12-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3810,161420,Adventure
+4142,70945,Little Princess,"From the intro:  ""It was a bright and sunny Sunday morning. I was on a date with my girlfriend, Miki. But disaster suddenly struck out of nowhere. The skies turned a foul shade of black. And out of nowhere, clad in the darkest of shadow, Dracula appeared to steal Miki away from me. I desperately pursued that wicked Dracula. And before I knew it, I was in a different world. Miki, I'll definitely save you. Please wait for me.""  The game's story features the same Kentarou and Miki from the Rance titles, however Dracula would later be retconned and be replaced with Demon King Gi.",1986-12-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3812,70945,Adventure
+4144,94221,Hardline,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3814,94221,Adventure
+4150,148235,"VHS, 1986",NULL,2020-04-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3817,148235,Adventure
+4159,34052,CLANNAD Side Stories,NULL,2010-06-03 00:00:00.000,1,NULL,NULL,NULL,70.0000,3,3825,34052,Adventure
+4160,102304,Hunting on Myths,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3829,102304,Adventure
+4164,38792,Zarya-1: Mystery on the Moon,NULL,2017-05-30 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,1,3833,38792,Adventure
+4167,28661,Ambre – a heartbreaking kinetic novel,NULL,2017-05-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3837,28661,Adventure
+4174,99441,Flurius,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3842,99441,Adventure
+4175,2506,Druid: Daemons of the Mind,NULL,1995-12-31 00:00:00.000,NULL,NULL,71.0000,1,NULL,NULL,3845,2506,Adventure
+4176,114803,Torn Earth,NULL,2019-03-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3847,114803,Adventure
+4179,63433,Dream Inn: Driftwood,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3850,63433,Adventure
+4180,19403,Barbie Ocean Discovery,NULL,2000-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3851,19403,Adventure
+4184,182836,Voxel Works Quest,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3856,182836,Adventure
+4185,143542,Cape's Escape Game 2nd room,The main character has finally save up enough money to move. He's relieved that he doesn't have to deal with any more of Cape's pranks. But he doesn't seem to mind how ridiculously cheap the rent is at the next place. Let's hope that nothing horrible happens….,2021-02-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3858,143542,Adventure
+4193,123322,Home Sheep Home: Farmageddon Party Edition,NULL,2019-10-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3872,123322,Adventure
+4207,2879,Telengard,NULL,1982-12-31 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,3885,2879,Adventure
+4208,24671,"I, Damiano",NULL,1985-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3886,24671,Adventure
+4218,24667,Pastfinder,NULL,1984-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3892,24667,Adventure
+4224,149839,The Last Town: Excape,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3899,149839,Adventure
+4225,77028,Titanic Mystery,NULL,2015-03-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3901,77028,Adventure
+4231,69559,First Anchor,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3907,69559,Adventure
+4238,52086,Mysteries of Fence,NULL,2017-07-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3913,52086,Adventure
+4239,118994,Piko Piko,NULL,2019-08-14 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,0,3916,118994,Adventure
+4248,192485,Koni: The Secrets of Castle,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3922,192485,Adventure
+4249,53262,Kronville: Stolen Dreams,Kronville - Stolen Dreams takes you to the edge of reality in a captivating hidden object game! Twelve children vanish from Kronville and their teacher Astrid is desperate for your help. An interactive encounter between real-life and mind-boggling dreams demands every bit of your attention. Can you figure out what's going on?,2001-10-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3925,53262,Adventure
+4251,147152,Pancake Bar Tycoon,NULL,2021-03-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3929,147152,Adventure
+4255,176418,Lurking I: Immortui,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3934,176418,Adventure
+4276,192486,Hidden Post-Apocalyptic Top-Down 3D,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3951,192486,Adventure
+4298,135763,Murder House,"A news crew breaks into the old abandoned home of an executed serial killer Anthony Smith, planning to shoot a salacious haunted house story. But is the notorious Easter Ripper really dead or is he waiting inside, ready to wipe them out one by one? Who will survive, and what will be left of them? The spiritual successor to Babysitter Bloodbath.",2020-10-23 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,3968,135763,Adventure
+4299,40419,Runaway,NULL,1982-06-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3971,40419,Adventure
+4302,3614,Tonic Trouble,NULL,1999-08-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,3976,3614,Adventure
+4304,52094,Kilmonger,NULL,NULL,NULL,NULL,NULL,NULL,70.0000,0,3978,52094,Adventure
+4314,187525,Milo,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3989,187525,Adventure
+4325,155666,Knitted And Inflatable,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3997,155666,Adventure
+4335,189804,Jeremia: Nightfall,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4005,189804,Adventure
+4337,134804,Hotel Paradise,NULL,2015-03-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4007,134804,Adventure
+4340,140566,MannaRites,NULL,2020-08-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4012,140566,Adventure
+4348,189785,The Walking Stick,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4016,189785,Adventure
+4356,176410,Scooby Horror,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4023,176410,Adventure
+4365,176409,Lost Elements,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4032,176409,Adventure
+4368,176408,I am a tree. You are not. ha ha.,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4034,176408,Adventure
+4369,135809,"Mystery Case Files: Dire Grove, Sacred Grove - Collector's Edition",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4036,135809,Adventure
+4370,144291,Hello Charlotte: Delirium,NULL,2017-06-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4038,144291,Adventure
+4374,95274,The Last Barbarian,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4043,95274,Adventure
+4377,114275,Koishi Navigation,NULL,NULL,NULL,NULL,NULL,NULL,70.0000,0,4047,114275,Adventure
+4391,120930,Kumo,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4058,120930,Adventure
+4395,97909,Qanga,"Synchronize your consciousness in a cyborg from ICLab's Industrie laboratories.  Your adventure will begin in the last cradle of humanity, the ICLab's Industry complex. It consists of a wall 300m high and 8Km in radius, built in the middle of ocean. Inside it, a technological capital stands in its center. You will have to learn to survive, understand the abilities and possibilities of your cyborg, after that the universe will be at your disposal. Aboard your spacecraft, reach the ICLISpace station, the Moon, Mars, Venus, and other locations. But before that, you need explore the surface of Earth and find the answers to your questions.",2022-12-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4064,97909,Adventure
+4403,189795,Nero's Adventure,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4068,189795,Adventure
+4413,147016,Metro Exodus: Complete Edition,"Metro Exodus is a story-driven, first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created.  Flee the shattered ruins of dead Moscow and embark on an epic, continent-spanning journey across post-apocalyptic Russia in the greatest Metro adventure yet.  Explore the Russian wilderness in vast, non-linear levels and follow a thrilling story-line inspired by the novels of Dmitry Glukhovsky that spans an entire year through spring, summer and autumn to the depths of nuclear winter.  Inspired by the novels of Dmitry Glukhovsky, Metro Exodus continues Artyom’s story in the greatest Metro adventure yet.  The Two Colonels expansion follows the story of Colonel Khlebnikov during the last days of Novosibirsk.  The Sam's Story expansion follow the story of Sam after the events of Metro Exodus as he searches for a way back to his homeland so he can be reunited with his family.",2021-06-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4075,147016,Adventure
+4417,189797,Life of Pepe,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4077,189797,Adventure
+4426,56568,Valiant Force,"Embark on an unforgettable journey as you plunge into a visually stunning fantasy world of magical battles and epic story. Recruit unique characters and create the greatest assembly of Heroes to have ever existed.    Challenge yourself to make strategic decisions in engaging turn-based combat. Master the aura trigger system to defeat devious foes, advance through diverse job paths, gather powerful equipment, and unlock incredible skills.    Forge a glorious garrison as the final bastion of light against the encroaching darkness and engrave your acts of valor into the archives of history forevermore.",2016-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4085,56568,Adventure
+4431,183815,Ciikos Bridge,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4087,183815,Adventure
+4432,183820,Project Atom,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4089,183820,Adventure
+4436,66053,Pleria: The Royal Emblem,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4094,66053,Adventure
+4439,22710,Citadel 1986,NULL,2016-08-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4101,22710,Adventure
+4444,138929,Tuareg,NULL,1988-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4105,138929,Adventure
+4446,41707,Lupin Sansei: Cagliostro no Shiro,NULL,1987-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4107,41707,Adventure
+4460,171431,Mythos Ever After: A Cthulhu Dating Sim,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4120,171431,Adventure
+4461,189789,Hostile Planet: Survival,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4123,189789,Adventure
+4462,156951,ForkJump,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4124,156951,Adventure
+4466,126345,"Don't Die, Minerva!",NULL,2019-12-05 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,4131,126345,Adventure
+4467,132578,Wolf Ridge,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4134,132578,Adventure
+4470,90487,Upside Down,NULL,2017-02-14 00:00:00.000,NULL,NULL,NULL,NULL,80.0000,0,4139,90487,Adventure
+4476,183800,S.H.E.,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4145,183800,Adventure
+4481,189793,The Hungry One,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4150,189793,Adventure
+4482,124247,Grashers,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4152,124247,Adventure
+4488,109854,Legend of Himari 2: Heroes of Zaria,NULL,NULL,NULL,NULL,NULL,NULL,50.0000,0,4158,109854,Adventure
+4492,117810,Loco Parentis,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4165,117810,Adventure
+4493,37655,Momotaro Densetsu II,NULL,1991-01-22 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4168,37655,Adventure
+4504,75592,Operation: Polarity Hook,NULL,2017-11-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4175,75592,Adventure
+4513,176421,You have to go to work,NULL,2017-03-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4183,176421,Adventure
+4515,127810,PAPER TANKS,NULL,2021-02-15 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,4187,127810,Adventure
+4519,183823,Trade Around,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4189,183823,Adventure
+4525,139804,Drakens Värld,Draken has lost he's puzzle pieces and you as the player need to go around and find the pieces and complete the puzzle.,2006-01-01 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL,4195,139804,Adventure
+4540,189791,Arcante: Definitive Edition,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4205,189791,Adventure
+4542,26720,Marble Jetpack,A marble makes its way through training to receive a jet pack and a cannon to use in helping collect all the stars on the levels. Later on will be running into enemies and having more difficult obstacles in up and coming levels.,2017-01-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4207,26720,Adventure
+4552,31265,Bad ass babes,NULL,2016-09-16 00:00:00.000,NULL,NULL,NULL,NULL,80.0000,1,4218,31265,Adventure
+4557,189787,Quarantineer,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4228,189787,Adventure
+4564,95407,Encased,NULL,2021-09-07 00:00:00.000,2,5,NULL,NULL,80.0000,0,4236,95407,Adventure
+4565,125010,The Legend of the Prophet & the Assassin,NULL,2000-12-31 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,4239,125010,Adventure
+4567,176449,Cooking With Cthulhu,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4240,176449,Adventure
+4573,26298,Sea of Solitude,"WHEN HUMANS GET TOO LONELY, THEY TURN INTO MONSTERS...  Sea of Solitude takes you on a personal journey of a young woman’s loneliness. Set sail across a beautiful and evolving world, where nothing is quite what it seems. Meet fantastical creatures and monsters, learn their stories, and solve challenges. Explore a flooded city, either by boat, on foot, or by swimming through the water itself. Dare to look what lies beneath the surface, in a haunting struggle of darkness and light, and discover what it truly means to be human.",2019-07-05 00:00:00.000,28,19,70.3333,10,68.9595,36,4244,26298,Adventure
+4576,141346,Yomi Domini,"Reyna, Hiei, and Jamal set out into the bowels of the Sistine Divide, the molten core of their homeland! The celestial lords await them observing their fighting style to fight you, the player, on your own level!    Each hero travels deep into the crust of their planet, Teiresia, in the name of each of their warring factions. They seek what it would mean to serve, to honor, and to claim glory. Deep in the Sistine Divide, lies a miracle mineral, the Petrago. A place where many heroes on both sides meet their end outside of the Domini-Valkan conflict. Shambling back to life, these heroes join the teeming horde known only as the Slain. Where once Petrago promised an end to the bloody conflict, it now threatens the whole planet. No longer does Petrago fuel the war that ravages the face of Teiresia; the mineral's soul revival properties serve only as a purgatory of endless battle that serve no nation.",2020-12-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4248,141346,Adventure
+4587,153480,Discovery Yard Police,NULL,2021-02-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4267,153480,Adventure
+4596,142128,Magic Castle,"This game is a fantasy action RPG that explores the magic castle.    Survive battles with traps and monsters    The goal is to find the items and grow your character and ultimately get the illusionary treasure. Endless adventure, real-time action is the theme of this game.    Here is a simple screen explanation.    ""My Character""  This is the character that the player controls. Like the players, ""monsters"" wander the labyrinth in real time.    ""Items""  There are items that can be used such as medicines and items that can be equipped such as weapons.    ""Player Information""  There is a mode to select items and a mode to change equipment, in addition to the mode to display physical strength and magic power. The display position of the player information can be changed freely.    The magical castle that sets the stage for the adventure is everything, such as items and traps, is composed and arranged three dimensionally using random numbers. The generated rooms are connected to each other and form a labyrinth.    There are four types of player characters in this game.    Knight uses swords and shields and is good at short range attacks.  Magicians are good at attacking by magic, you can fly in the sky.  Archers use bows and arrows and are good at hitting a long distance.  Fighters are characterized by their nimbleness and strength.  In this game you will find various items to help you with your adventure. Items include healing potions, weapons and armor, as well as scrolls and other special effects. These items can be left freely on the floor, and players can manage the items according to the situation.    In this game, the camera will automatically rotate to a comfortable angle. Monsters appearing in the game will attack the player with unique movements for each type.    Back Ground Music is sometimes intense according to the situation of the player. It has system in which the tone changes in real time without interruption, such as being quiet at one time.    In this game, up to 4 players can play simultaneously and items can be exchanged between players.    Co Op Adventures (helping each other) are possible.",2020-12-23 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,4278,142128,Adventure
+4602,183836,Fugitive Shift,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4282,183836,Adventure
+4610,134578,2D Owen,NULL,2020-05-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4288,134578,Adventure
+4618,65879,Twisted: A Haunted Carol,NULL,2010-12-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4293,65879,Adventure
+4622,102086,She is Mermaid,NULL,2018-09-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4295,102086,Adventure
+4623,194567,XxxHolic: Watanuki no Izayoi Sowa,NULL,2007-08-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4298,194567,Adventure
+4637,192473,Vacation Paradise: California - Collector's Edition,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4303,192473,Adventure
+4641,141335,Torii,NULL,2020-11-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4305,141335,Adventure
+4643,65641,Cardcaptor Sakura: Itsumo Sakura-chan to Issho!,NULL,1999-05-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4310,65641,Adventure
+4644,134800,Vampire: The Masquerade - Bloodlines 2 Collector’s Edition,"Written by Brian Mitsoda, the creative mind behind the original, Vampire: The Masquerade - Bloodlines 2 brings the ambitions of the first to life and sees the return of a few fan favorite characters. Those narrative ambitions are bolstered by Cara Ellison, exploring the effects of the mass embrace on regular Seattleites.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,4312,134800,Adventure
+4645,119146,Noel The Mortal Fate Season 1 - mortal revenger,"Performing at the memorial ceremony...  The highest honor, goal, and dream for every young musician living in LaPlace.    While everyone waits for the announcements nervously, only Noel looks confident. She was certain.    ""I will win the piano competition this year.""    However, that confidence would soon turn to despair.  The winner was her best friend, Jillian.    Burrows, the mayor of LaPlace, proposes a ""deal"" to a desperate Noel.  Believing his words, Noel heads to the meeting, without knowing a devil was waiting...",2016-04-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4314,119146,Adventure
+4647,152847,Lipstick Assassin,NULL,2021-05-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4319,152847,Adventure
+4651,182723,Swords & Shadows,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4324,182723,Adventure
+4655,192476,Joutsen Ara,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4328,192476,Adventure
+4667,128235,Little Red Riding Hood,NULL,2019-11-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4337,128235,Adventure
+4673,156062,Lost Ed,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4342,156062,Adventure
+4675,10093,High Strangeness,NULL,2015-05-06 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,4345,10093,Adventure
+4676,155744,Oaths of Light,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4348,155744,Adventure
+4677,61262,Gakuen Heaven 2: Double Scramble!,NULL,2014-07-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4350,61262,Adventure
+4678,155255,Darksiders Blades & Whip Franchise Pack,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4352,155255,Adventure
+4681,45936,Cluedo: The Mysteries Continue,NULL,1995-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4354,45936,Adventure
+4684,134010,Into The Mist 2: The Cult,"""The trains will be leaving at 12:00. To all citizens, if you have been cleared by the quarantine team, the trains will be leaving at 12:00. Do not be late, the trains will not be returning.""    After being captured by the cult, you must try and escape!",2018-05-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4358,134010,Adventure
+4686,127826,Herbalist simulator,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4363,127826,Adventure
+4700,190793,Hentai Sea Battle,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4374,190793,Adventure
+4714,36173,Luna: Shattered Hearts: Episode 1,NULL,2014-11-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4386,36173,Adventure
+4717,2415,Abandoned Places: A Time for Heroes,NULL,1992-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4390,2415,Adventure
+4721,186687,Roads of Rome: Portals - Collector's Edition,"A valiant Centuria was returning home after a victorious campaign. Suddenly, a storm, which was rapidly approaching the ship, appeared on the horizon. The team prepared for the worst. A monstrous storm broke out. The ship was tossed from side to side, and giant waves were covering it one after another. The squad was already saying their last farewells to life. The incredible storm, having played enough with the ship, smashed it like a toy on the rocks of a deserted island. Fortunately, many managed to survive.  The small, lifeless island seemed to promise nothing but death. The surviving centurians wandered through it in search of food, but found only the entrance to the cave. The Romans entered the cave. And they froze in surprise when they saw something strange and magical in front of them, something that looked like a portal. After a brief consultation, the squad decided to meet their fate and go into this portal. There was nothing else they could do. And they bravely stepped into the unknown.",2022-01-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4396,186687,Adventure
+4741,165028,Love Tavern,NULL,2021-07-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4412,165028,Adventure
+4742,176431,The Attic's a Dungeon ?!,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4415,176431,Adventure
+4744,18823,Brave Story: My Dreams and Wishes,NULL,2006-07-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4418,18823,Adventure
+4747,192479,Dreamers,NULL,2022-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4422,192479,Adventure
+4761,27877,The Last Wish,The Last Wish is an adventure survival horror game developed by Rowfor Entertainment.      The game will be released in May 2017.,2017-05-08 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,4429,27877,Adventure
+4764,105351,Lovefield General: Back to Work,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4433,105351,Adventure
+4785,155274,Lunar Lich,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4450,155274,Adventure
+4787,28808,Fluffy Creatures VS The World,NULL,2017-04-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4454,28808,Adventure
+4790,164178,Lost Lies,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4456,164178,Adventure
+4791,12262,Transylvania,NULL,1982-12-31 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,4458,12262,Adventure
+4798,108745,Errant: Hunter's Soul,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4465,108745,Adventure
+4804,94123,Aconcagua,NULL,2000-06-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4469,94123,Adventure
+4819,25853,Aztec Tomb Adventure,NULL,1983-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4477,25853,Adventure
+4824,1401,Professor Layton and the Miracle Mask,NULL,2011-02-26 00:00:00.000,14,NULL,85.2000,7,82.3954,30,4479,1401,Adventure
+4828,123821,Seek Girl Ⅱ,NULL,2019-10-01 00:00:00.000,NULL,NULL,NULL,NULL,60.0000,0,4487,123821,Adventure
+4836,152686,Bear Soul,NULL,2021-08-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4493,152686,Adventure
+4837,44111,Pixel Shooter,NULL,2017-07-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4496,44111,Adventure
+4839,11194,The Legend of Zelda: Tri Force Heroes,NULL,2015-10-22 00:00:00.000,14,4,71.8571,10,64.5695,28,4502,11194,Adventure
+4840,15930,Iwaihime,"Hajakenshou. Crush evil, spread the truth.  It is said that each generation, upon reaching a certain age, all boys of the Susuharai family leave home and become independent. Then, relying only on themselves, they train body and soul until they are accepted as adults. And so I prepared myself for this day, learning a great many things so I'd be ready to live on my own.  Susuda Prefectoral High School. My new school. Originally, I planned to enter in first year rather than transfer in second year. Life at school is carefree, and even pleasant. Everyone has a great time in class 2-A. There's just... her, Toe Kurokami. ""Weird"" doesn't begin to describe her. Always holding that Japanese doll against her chest, never letting go for a second. Some whisper it is a cursed doll, whose hair grows when no one is looking. But it's just an uncanny doll, with nothing special about it. Yet, perhaps my meeting that girl was fate... No, it was fate.",2016-01-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4504,15930,Adventure
+4843,192480,Maze Of Realities: Flower Of Discord - Collector's Edition,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4509,192480,Adventure
+4844,192505,Love with Furry,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4510,192505,Adventure
+4846,70961,Rhapsody of Zephyr,"A number of years later, the Zephyr Falcons, a rebel group, launch an attack upon the prison to free their captured brethren, and Cyrano is freed in the chaos. Yet his body is too frail from years of labouring over toxic materials within the prison's depths, and he quickly finds himself on the verge of death. In this moment of despair, he is saved by a mysterious spiritual entity that is bound within the depths of the prison. And imbued with new powers, as well as a physical appearance radically transformed by his ordeals, Cyrano returns to the mainland, intent on exacting revenge upon his enemies.  The Rhapsody of Zephyr largely discards the SRPG trappings of its parent series in favour of a more traditional console RPG-styled experience, with the only real proof of this heritage remaining in its grid-based, semi-strategic battle system. The game boasts a number of interesting if not fully realised mechanics, with weapon durability playing a key role in battles, as well as weapons boasting separate attack and defence values and acting to both guard allies from harm and help them to deal damage.",1998-03-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4514,70961,Adventure
+4849,59179,Soul Calibur ~Defiled Soul~,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4515,59179,Adventure
+4854,147260,Estranged: The Departure,NULL,2021-03-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4519,147260,Adventure
+4858,76494,Snail Trek Chapter 2,NULL,2017-12-14 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,4522,76494,Adventure
+4865,117453,Petoons Party,NULL,2018-10-05 00:00:00.000,NULL,NULL,66.0000,1,NULL,NULL,4527,117453,Adventure
+4885,182639,Grandpa Pip's Birthday,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4549,182639,Adventure
+4886,182839,You Are Not Alone,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4550,182839,Adventure
+4887,14378,Praey for the Gods,NULL,2021-12-14 00:00:00.000,44,30,70.0000,2,69.9908,5,4553,14378,Adventure
+4888,141409,Mirage,NULL,1995-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4556,141409,Adventure
+4891,142066,YOU ARE A WIZARD,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4558,142066,Adventure
+4892,26026,Gremlins: The Adventure,NULL,1985-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4559,26026,Adventure
+4894,138188,Covetous,NULL,2010-07-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4561,138188,Adventure
+4896,71923,Redmoon,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4566,71923,Adventure
+4897,176456,Captain Hookfoot,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4568,176456,Adventure
+4913,116716,Horse Riding Tales,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4577,116716,Adventure
+4924,131738,Now That's What I Call Games 2,NULL,1993-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4588,131738,Adventure
+4933,171414,Devil Catcher,NULL,2021-09-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4598,171414,Adventure
+4939,18311,The Turing Test,"In the far future, engineer Ava Turing is one of several members of a research team sent via the International Space Agency (ISA) to excavate Jupiter's moon Europa. While Ava remains in cyrogenic slumber, the other team members are woken and travel to the moon to set up their base and begin conducting their studies, with Ava scheduled to wake once the base is completed. Sometime later, Ava is awoken by the Technical Operations Machine (T.O.M.), an artificial intelligence that monitors the project. T.O.M. tells Ava that her crewmates are in danger and she needs to go down there to help them out. She quickly sets out in a lander and enters the base on Europa. T.O.M. quickly recognizes that the base's internal configuration has changed from their records, whereby to progress further into the complex, Ava must complete various tests (designed as the puzzles in game).  As Ava gets deeper in the complex, T.O.M. determines some of the team members are already dead and the others need their help, urging Ava to move faster. As the tests get harder, T.O.M. realizes that these are designed to be solved by a combination of human and artificial intelligence, a manner similar to that of the actual Turing test.  They enter an area where one of the remaining crew-members, Sarah, warns Ava over the communication systems that she is actually being controlled by T.O.M. due to a special chip implanted in her hand when they left for the mission. Sarah directs Ava to a Faraday cage, which temporarily frees Ava of the control from T.O.M. However, T.O.M. manages to convince Ava that the two of them need to continue to work together to save their colleagues. Though angered by the intrusion of T.O.M. into her body, Ava continues onward.  T.O.M. eventually reveals that the Europa ground team had found a microorganism within the depths of the moon that could be used to infinitely regenerate DNA; this could potentially make humans immortal, but also infinitely regenerate bacteria and viruses. When ISA learned of this discovery, they ordered T.O.M. to take whatever actions needed to make sure the Europa team could never return to Earth, initially by taking actions such as trying to starve them to death or lock them outside the base, but eventually by using the hand chip implants to control them. The surface crew realized they were being controlled, and those that did not die from T.O.M.'s actions found a way to rid the chip from their body, including in one case severing their entire arm. With no way to control the Europa crew, ISA ordered T.O.M. to wake Ava and send her to prevent the others from returning.  Eventually completing the last of the tests set up by the surface crew, Ava finds Sarah in person, and she offers to remove the hand chip from Ava; Ava agrees. The two realize the only way to get off Europa is to stop T.O.M. and they begin to disable his databases. At this point, the player takes control of T.O.M. and one of his sentry weapons, which they can either use to kill Sarah and Ava, assuring that the organism will never leave Europa, or do nothing, eventually leading to the end of T.O.M. and allowing Ava and Sarah to escape.",2016-08-30 00:00:00.000,29,10,76.3750,10,68.9385,81,4604,18311,Adventure
+4945,192518,Global Pandemic,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4607,192518,Adventure
+4946,154136,Subject 95,NULL,2021-07-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4611,154136,Adventure
+4950,120594,Rocket Boy,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4615,120594,Adventure
+4953,25685,Memory's Dogma CODE:01,NULL,2016-11-04 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,1,4620,25685,Adventure
+4962,69990,Paparazzi!: Tales of Tinseltown,NULL,1995-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4630,69990,Adventure
+4967,25409,Phantasia,"You take the role of Caerula, a seemingly young man that lost his memories 2 years ago and has been living in the Inn of Baldric Village for a month now.  Caerula is trying to remember himself while exploring this new world around him while seeing himself in the crossfire of politics, ideologies and wars of the different residents of the Phantasia World!",NULL,NULL,NULL,NULL,NULL,NULL,NULL,4634,25409,Adventure
+4968,33874,The Book of Desires,"Ashley had a horrible dream where she traveled to a strange world. When she awoke she realized it was just a nightmare, but her reality turns out to be just as scary...",2015-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4636,33874,Adventure
+4975,160260,Freelancer Life Simulator,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4642,160260,Adventure
+4976,29292,Happy Campers,NULL,2017-04-10 00:00:00.000,NULL,NULL,NULL,NULL,40.0000,0,4644,29292,Adventure
+4977,31086,Torch Cave 2,NULL,2016-09-28 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,4647,31086,Adventure
+4978,11425,Epanalepsis,NULL,2015-05-21 00:00:00.000,NULL,NULL,40.0000,2,NULL,NULL,4649,11425,Adventure
+4995,75125,Cube Escape: Arles,NULL,2015-06-01 00:00:00.000,1,NULL,NULL,NULL,67.8582,12,4671,75125,Adventure
+4997,75131,Cube Escape: The Cave,NULL,2017-03-01 00:00:00.000,1,NULL,NULL,NULL,88.0407,7,4675,75131,Adventure
+5005,75124,Cube Escape: The Lake,NULL,2015-04-01 00:00:00.000,1,NULL,NULL,NULL,67.4878,12,4682,75124,Adventure
+5007,176477,Age of Trades,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4684,176477,Adventure
+5030,34741,Chicka Wars | Chicken Meat,NULL,2016-10-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4702,34741,Adventure
+5031,192525,Medieval Fantasy Survival Simulator,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4705,192525,Adventure
+5033,139107,Tamashii no Mon: Dante no Shinkyoku yori,"The game's events are a distilled portrayal of the Divine Comedy, an epic poem created by Dante Alighieri depicting his journey through the nine circles of Hell to reunite with his childhood love, Beatrice.",1992-12-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4709,139107,Adventure
+5041,183850,Drunken Ravings,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4716,183850,Adventure
+5046,117623,Danger Crew,NULL,2019-05-06 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,4725,117623,Adventure
+5054,75128,Cube Escape: The Mill,NULL,2015-09-01 00:00:00.000,1,NULL,NULL,NULL,70.1393,9,4737,75128,Adventure
+5064,16680,Elegy for a Dead World,NULL,2014-11-03 00:00:00.000,3,NULL,70.0000,1,60.0000,1,4746,16680,Adventure
+5076,129322,The World Of Others,NULL,2020-02-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4762,129322,Adventure
+5087,11024,Dawn of Magic,NULL,2007-04-27 00:00:00.000,NULL,NULL,50.0000,2,NULL,NULL,4772,11024,Adventure
+5089,90491,Carlos III y la difusión de la antigüedad,NULL,2017-03-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4773,90491,Adventure
+5093,82355,Gone Fireflies,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,4776,82355,Adventure
+5094,91182,Black Desert Online - Traveler's Package,NULL,2017-05-24 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,4781,91182,Adventure
+5102,6765,Epic Mickey: Power of Illusion,NULL,2012-11-17 00:00:00.000,NULL,NULL,62.6667,6,58.0000,4,4785,6765,Adventure
+5104,135237,a milky way,NULL,2020-06-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4786,135237,Adventure
+5105,192527,Elisa Dragon Hunter,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4788,192527,Adventure
+5118,77763,Jewel Matrix,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4801,77763,Adventure
+5127,192522,Slobbish Dragon Princess 2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4807,192522,Adventure
+5132,73270,Eagle Eye Mysteries in London,NULL,1993-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4810,73270,Adventure
+5133,16729,Elder Sign: Omens,"Something terrible has begun to awaken within our museum… a something unsatisfied with mere exhibition or human study, writhing with ancient evil and terrible purpose. An entity that must, at all costs, be prevented access to our world. From my studies, I am convinced that such dangers are not new to the human experience. The very fact that humanity survives to this day, I attribute to our forefathers' success in resisting the tormented realities beyond our own. Among the rarities I have been fortunate enough to uncover, one particular emblem seems significant. A symbol of purported resistive faculty and considerable power. They called it the Elder Sign.",2011-03-11 00:00:00.000,2,NULL,NULL,NULL,60.0000,2,4813,16729,Adventure
+5141,65465,Shadow of a Soul,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4819,65465,Adventure
+5145,108297,Epic Battle Fantasy 5,NULL,2018-11-30 00:00:00.000,NULL,NULL,NULL,NULL,80.0000,0,4824,108297,Adventure
+5149,85625,Internal Invasion,NULL,2014-07-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4830,85625,Adventure
+5169,82363,Bloody Skyscraper,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4847,82363,Adventure
+5173,148924,Band of Brothers,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4854,148924,Adventure
+5181,33491,24 Hours 'til Rescue,NULL,2016-02-19 00:00:00.000,NULL,NULL,NULL,NULL,30.0000,1,4861,33491,Adventure
+5182,120475,Diastone: Confusion,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4863,120475,Adventure
+5189,110172,Island Survival,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4866,110172,Adventure
+5193,55577,Space Waver,NULL,2017-09-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4869,55577,Adventure
+5212,11819,Girl Friend BETA: Summer Vacation Spent With You,NULL,2015-11-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4894,11819,Adventure
+5215,169491,Long Car Journey,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4901,169491,Adventure
+5221,29278,Saucer-Like,NULL,2017-04-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4903,29278,Adventure
+5231,169195,Saints Row: Gold Edition,"As the future Boss, with Neenah, Kevin, and Eli by your side, you’ll form The Saints – and take on Los Panteros, The Idols, and Marshall as you build your empire across the streets of Santo Ileso and battle for control of the city. Ultimately Saints Row is the story of a start-up company, it’s just that the business The Saints are in happens to be crime.  Experience the biggest and best Saints Row playground ever created; the unique sprawling world of Santo Ileso is the backdrop for a wild, larger than life sandbox of thrilling side hustles, criminal ventures and blockbuster missions, as you shoot, drive, and wingsuit your way to the top.",2022-08-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4911,169195,Adventure
+5232,101457,The Forgotten Void,NULL,2018-05-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4914,101457,Adventure
+5237,182751,The 1485,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4921,182751,Adventure
+5261,57903,My Cup of Coffee: The Trouble With Earl Grey,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4938,57903,Adventure
+5266,32952,3030 Deathwar Redux,NULL,2017-09-13 00:00:00.000,5,NULL,NULL,NULL,80.0000,1,4942,32952,Adventure
+5280,64907,3D Creation Station,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4955,64907,Adventure
+5281,35393,The Way of the Pixelated Fist,NULL,2015-04-27 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,0,4956,35393,Adventure
+5291,32633,Gal-X-E,NULL,2016-05-14 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,4966,32633,Adventure
+5292,14669,Dylan Dog: Ombre,NULL,1993-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4968,14669,Adventure
+5300,157345,A Rabbit and the Mystic Fog,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4977,157345,Adventure
+5301,76376,Final Battle,NULL,2017-12-01 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,4981,76376,Adventure
+5306,139482,Toad On Fire,"Frogs, the once-established nemesis exiled to space long ago, suddenly arrived out-of-nowhere, beaming down to the surface in waves and seizing the lands of amphibian communities and home to the eponymous toad. Fortunately, you take control moments before the chaos, arming him with a nearby flamethrower kept for seasonal work. Soon proving to be an effective weapon, Smokey takes on an objective to find and disable the teleport beacons that the frogs are using for beaming directly into the surrounding area.",2021-12-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4986,139482,Adventure
+5308,125472,Lawmage Academy,NULL,2022-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4990,125472,Adventure
+5311,68856,Stryker in the Crypts of Trogan,NULL,1992-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,4994,68856,Adventure
+5314,64157,Alex Builds His Farm,"Alex is a lively and cheerful little boy who loves nature and animals. He often goes running along the forest paths with his dog Oscar. All the animals in the forest know him. Alex is also a great dreamer. Sometimes he sits under a tree and turns the pages of his favourite book: The Big Farming Book.  He sits there enjoying the sun, cooled by a gentle breeze. On such occasions Alex sometimes falls asleep and dreams of a magnificent farm with cows, funny little hens and affectionate horses. One day, Alex and Oscar went running in a field at the edge of the forest. In the middle of the field stood a scarecrow to keep the crows away. When Oscar and Alex passed close to the scarecrow they heard a strange noise. Alex was surprised and looked all around, but couldn't see anything strange or unusual. Just as Alex and Oscar were about to continue their race, Alex heard the noise again. It was as if someone was calling him: - Psst! Pssst! Alex, it's me! It was the scarecrow! Alex couldn't believe his eyes. - But...! You can speak! said Alex in surprise. -Yes, of course I can speak, said the scarecrow. But I only speak to children who like animals and nature. Like you, Alex! The scarecrow had a big smile. He looked nice and funny at the same time. He spoke again: -You know what Alex? I often see you sleeping under a tree in the forest. Did you know that when you dream in the middle of the forest, your dreams can come true? - Er... No, I didn't know that, said Alex. -Well, because you're a good little boy and you love nature so much, I'm going to tell you a secret: when you wake up, all you have to do is concentrate very intensely on your dream and do everything you canto make it come true! - That's easy! said Alex. - Yes! But above all, you mustn't forget to have fun! Other wise, it's no longer a dream! - Thanks, Mr Scarecrow! That's a great secret! - Bye, bye! As soon as Alex had finished talking with the scarecrow, he and Miro ran faster than ever in the direction of a large oak tree, the most majestic tree in the forest. Alex was keen to see if the scarecrow had been telling the truth. He sat down under the tree and shut his eyes. He listened to the birds singing and the sound of the wind in the trees, but Alex couldn't manage to fall asleep. He was far too excited by the scarecrow's secret! So he picked up his favourite book, the Good Farmer's Handbook and started to look at the pictures one after the other. Little by little, his eyelids shut and he fell asleep. And dreamt... He dreamt of his family, and a magnificent farm.",1999-12-31 00:00:00.000,1,1,NULL,NULL,NULL,NULL,4998,64157,Adventure
+5315,106476,Emberdoom VR,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5000,106476,Adventure
+5324,34689,Erwin's Timewarp,NULL,2015-09-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5007,34689,Adventure
+5329,25831,Pyramid,NULL,1984-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5011,25831,Adventure
+5339,158521,Space Agent: 8 Artifacts,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5022,158521,Adventure
+5352,117849,Golden Treasure: The Great Green,NULL,2019-06-17 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,5034,117849,Adventure
+5355,101297,BunkerRush,NULL,NULL,NULL,NULL,NULL,NULL,50.0000,0,5040,101297,Adventure
+5358,142618,Being & Becoming,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5043,142618,Adventure
+5360,133612,Happy’s Humble Burger Barn,NULL,2020-05-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5047,133612,Adventure
+5363,151909,Fuzz Dungeon,"Play as a rat dog witch who escapes her job through a hidden vault and enters the Fuzz Dungeon - a space in between thought and reality, where ideas ruminate in limbo before turning into real life consequences. By entering different buildings throughout the dungeon you take on many different forms from 8-bit style to hand drawn to a 3d satellite bird that shoots down floating space heads. Travel through an absurdist version of human history as you try and find a sasquatch sex amulet that will, for some reason, enable you to visit the suburbs of the Fuzz Dungeon where you can defeat a sasquatch statue and abolish bad ideas forever.",2021-06-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5049,151909,Adventure
+5367,13802,Alice in Videoland,NULL,1984-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5052,13802,Adventure
+5380,86835,Agent Gumball - Roguelike Spy Game,NULL,2016-04-28 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,5060,86835,Adventure
+5381,185808,Você é um Defunto Mecânico,NULL,2021-01-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5061,185808,Adventure
+5385,73903,3x3 Eyes: Kyuusei Koushu,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5064,73903,Adventure
+5388,40690,Survival Island,NULL,1983-08-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5068,40690,Adventure
+5390,116696,Empire Patron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5073,116696,Adventure
+5401,150624,Welcome to Emba,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5084,150624,Adventure
+5410,150454,Overseer,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5096,150454,Adventure
+5412,60759,Jett Tailfin Racers,NULL,2014-08-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5100,60759,Adventure
+5430,128552,Journey to the East,"You find yourself in an unfamiliar land and try to discover how you got here and how you can return home. However, you soon realize this place invites you to ask much bigger questions.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,5111,128552,Adventure
+5432,99814,Jacob Jones and the Bigfoot Mystery,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5115,99814,Adventure
+5439,127364,Go Fight Fantastic!,NULL,2022-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5118,127364,Adventure
+5440,153485,Occupy Mars: Prologue,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5121,153485,Adventure
+5447,2502,Trial by Magic,NULL,1995-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5129,2502,Adventure
+5450,20029,Hold Your Fire: A Game About Responsibility,NULL,2015-09-24 00:00:00.000,NULL,NULL,20.0000,1,NULL,NULL,5131,20029,Adventure
+5457,26553,Epic Manager - Create Your Own Adventuring Agency,NULL,2016-12-12 00:00:00.000,1,NULL,NULL,NULL,50.0000,0,5138,26553,Adventure
+5459,66964,Kimi ni Todoke: Sodateru Omoi,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5145,66964,Adventure
+5464,146673,Wild Frontier,This story is about the legendary hero who accidentally discovers a new world and saves the continent from ancient demons awakening from being trapped in a seal.,2011-01-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5150,146673,Adventure
+5471,69879,I-0: Jailbait on Interstate Zero,NULL,1997-09-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5157,69879,Adventure
+5485,31459,Autumn Dream,NULL,2016-11-05 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,0,5173,31459,Adventure
+5486,135819,Grisaia Phantom Trigger Vol.7,"As daily life goes on unchanged, the girls continue to sharpen their fangs in silence.  Even Haruto seems to be preparing for an inevitable showdown, as he takes up his sword again.  Echoing voices call out to them from far away.    All units of SORD and CIRS are summoned for a mission of unprecedented scale. Their enemy: the religious organization ""The Fatal Answer"", or ""TFA"", where Enishi and Kuroe eagerly await a climactic confrontation.    Meanwhile, Arisaka Shiori finds herself in two minds. As a teacher and staff member, and as a human being, should she allow her students to jump headfirst into this battle, or should she forbid it? Their fate lies entirely in her hands...",2020-07-22 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,5175,135819,Adventure
+5487,128998,Tales of the Deck,NULL,2020-02-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5179,128998,Adventure
+5488,33576,Tap Tap Legions - Epic battles within 5 seconds!,NULL,2016-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5183,33576,Adventure
+5491,99449,Bitcoin Minia,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5190,99449,Adventure
+5494,62326,Spy Daisakusen,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5192,62326,Adventure
+5496,179981,Tennis Tower,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5195,179981,Adventure
+5497,46756,Star Knight,NULL,2016-04-20 00:00:00.000,2,NULL,NULL,NULL,90.0000,1,5197,46756,Adventure
+5505,110807,Observation,NULL,2019-05-21 00:00:00.000,20,7,82.0000,14,80.0919,49,5208,110807,Adventure
+5508,96432,Alchemy of Castle,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5211,96432,Adventure
+5514,139668,Faraway Lands: Rise of Yokai,NULL,NULL,NULL,2,NULL,NULL,NULL,NULL,5219,139668,Adventure
+5516,68568,Hollowed,NULL,2017-10-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5221,68568,Adventure
+5518,176494,Overcursed,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5225,176494,Adventure
+5523,87595,Spirit Walkers: Curse of the Cypress Witch,NULL,NULL,NULL,NULL,NULL,NULL,80.0000,0,5234,87595,Adventure
+5529,69801,The Murderer,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5239,69801,Adventure
+5533,52009,Upside-Down Dimensions,NULL,2017-08-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5241,52009,Adventure
+5537,138426,Sunshine Manor,NULL,2021-10-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5245,138426,Adventure
+5543,154041,Philana and the Elixir of Life,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5249,154041,Adventure
+5544,79994,Night Call,"""You are a taxi driver. Paris is your city and you know every corner of it.  Your shift starts when the night is dark and ends when the city wakes up. You work hard to pay back your car, your taxi license, and your bills. At night, passengers hop in your taxi. Sometimes you talk to them, sometimes they talk to you. You are not only a driver; for some people you are a priest, a confident, a friend. You like this routine.  Everything changes when the police reveals that the recent murders shattering your city are connected. As their investigation is stalling, they ask everyone to keep their eyes peeled.  You want to do more. Because the victims were all clients of your taxi company. Because you are the last person to see the most recent victim alive... You begin to investigate with your only advantage: on your backseat, people talk, open up, share secrets. So listen to your passengers, collect clues, and stop the killer.""",2019-07-17 00:00:00.000,7,5,60.0000,4,62.1411,15,5252,79994,Adventure
+5547,46893,The Alligator People,NULL,1983-06-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5258,46893,Adventure
+5551,133415,Elliot and the Musical Journey,NULL,2020-05-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5261,133415,Adventure
+5552,134813,Icarus,NULL,2021-12-04 00:00:00.000,NULL,3,NULL,NULL,NULL,NULL,5264,134813,Adventure
+5554,36466,Dark Parables: Ballad of Rapunzel - Collector's Edition,NULL,NULL,NULL,NULL,NULL,NULL,70.0000,0,5265,36466,Adventure
+5555,115590,跳跳大咖,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5266,115590,Adventure
+5560,145364,Jigsaw Pieces: Sweet Times,NULL,2021-02-15 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,5269,145364,Adventure
+5562,107441,Desert Rescue,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5272,107441,Adventure
+5573,29282,Hexaball,NULL,2017-03-13 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,0,5280,29282,Adventure
+5583,15124,Trauma,NULL,2011-07-01 00:00:00.000,1,NULL,NULL,NULL,60.0000,4,5287,15124,Adventure
+5587,134525,NOISE1,NULL,2020-01-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5296,134525,Adventure
+5605,118646,Hyper Bit Chasm,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5308,118646,Adventure
+5606,31973,Warcube,NULL,2017-01-27 00:00:00.000,NULL,NULL,NULL,NULL,80.0000,0,5314,31973,Adventure
+5615,130578,Guinea Pig Parkour,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5330,130578,Adventure
+5623,25918,Catacombs,NULL,1984-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5333,25918,Adventure
+5642,144173,Hannah,"You play as Hannah, a teenager born in the 80s. She tries to comprehend her personality by doing an internal journey to her youth and discover what went wrong.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,5347,144173,Adventure
+5643,164213,Destroyer: The U-Boat Hunter,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5350,164213,Adventure
+5645,186722,Krabat: The Secret of the Sorbian King,"We're living in 1714 and Augustus II the Strong is furious. Lusatia is suffering under the tyranny of Augustus' greedy squires. But unexpectedly an old Sorbian power is rattling at the door of the Saxon kingdom. Just the right time for new adventures, new friends and enemies. It's time for... Krabat!",2017-10-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5353,186722,Adventure
+5647,100068,Adventure Island,NULL,2013-05-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5358,100068,Adventure
+5675,28645,Journey Of Johann,NULL,2017-05-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5368,28645,Adventure
+5678,77505,World Neverland 2: Pluto Kyouwakoku Monogatari,NULL,1999-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5371,77505,Adventure
+5679,155979,Carrot Heart,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5372,155979,Adventure
+5681,152603,Scarleth,NULL,2022-04-22 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5376,152603,Adventure
+5690,185045,Crater,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5387,185045,Adventure
+5709,32437,Yellow: The Yellow Artifact,NULL,2016-06-07 00:00:00.000,NULL,NULL,NULL,NULL,40.0000,0,5397,32437,Adventure
+5716,69975,Escape from Delirium,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5403,69975,Adventure
+5719,151013,Firelight Fantasy: Phoenix Crew,NULL,2021-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5406,151013,Adventure
+5722,148855,HARU,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5411,148855,Adventure
+5724,103617,The story of Gods,NULL,2018-06-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5415,103617,Adventure
+5727,157728,Ramses: Rise of Empire,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5419,157728,Adventure
+5730,140486,Arcante,NULL,2020-10-27 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL,5424,140486,Adventure
+5731,29308,Fancy Fishing VR,NULL,2017-03-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5426,29308,Adventure
+5735,120734,失落的地下城 Lost Dungeon,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5429,120734,Adventure
+5739,64802,Memories Off: Sorekara Again,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5435,64802,Adventure
+5746,55582,Goodnight,NULL,2018-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5440,55582,Adventure
+5747,30093,Magic Hour,NULL,2016-12-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5443,30093,Adventure
+5756,112876,Superman: World's Finest,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5450,112876,Adventure
+5772,35095,The Forgettable Dungeon,NULL,2019-10-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5472,35095,Adventure
+5777,4055,Open Season,NULL,2006-09-19 00:00:00.000,2,NULL,43.3333,3,69.9426,5,5478,4055,Adventure
+5779,131987,Stones of the Revenant,NULL,2020-03-31 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL,5480,131987,Adventure
+5781,171314,Synthwaifu: Neon Space Fighter,NULL,2021-09-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5485,171314,Adventure
+5784,126691,Magic of Autumn,NULL,2020-02-17 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0,5490,126691,Adventure
+5785,140866,STASIS: BONE TOTEM,NULL,2022-03-31 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL,5494,140866,Adventure
+5787,65523,DT: Lords of Genomes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5496,65523,Adventure
+5790,144693,Mallory and the Marble Sanctum,NULL,2021-03-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5499,144693,Adventure
+5795,22023,Majotori,"Sometimes, when someone makes a wish, Lariat the witch appears and challenges them to a game of trivia. If they win she makes their wish come true, but if they lose something bad might happen instead.",2017-03-28 00:00:00.000,1,NULL,NULL,NULL,77.5089,8,5503,22023,Adventure
+5805,97813,My Melody: Negai ga Kanau Fushigi na Hako,NULL,2015-12-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5509,97813,Adventure
+5823,120670,Vermillion Watch: Parisian Pursuit - Collector's Edition,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5532,120670,Adventure
+5829,48470,Hokuto no Ken 4: Shichisei Hakenden: Hokuto Shinken no Kanata e,"The world was engulfed in darkness for the third time sometime during the 21st century. With the engulfment of darkness came the spread of evil and with the spread of evil, order collapsed, and a dark age where only might makes right returned. Kenshiro, the master of Hokuto Shin Ken and man once known as the Savior of Century's End, is nowhere to be found for some reason. However, there's a young man who now follows the path of a martial artist...",1991-03-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5540,48470,Adventure
+5832,150293,At The Downstairs,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5543,150293,Adventure
+5848,118775,Superstar Hero,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5557,118775,Adventure
+5873,64159,Vitamin Z Graduation,NULL,2013-01-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5571,64159,Adventure
+5874,176315,InScape,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5574,176315,Adventure
+5875,182603,Flaklypa Grand Prix,NULL,2021-11-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5576,182603,Adventure
+5882,25485,Realms of Illusion: Sentinel,"Set in an unspecified future, the narrative focuses on a young man named Beni, whose sister is kidnapped, causing him to embark on a quest to loot the tomb of a technologically advanced race that has since vanished.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,5584,25485,Adventure
+5888,138149,Junior Arithmancer,NULL,2018-10-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5588,138149,Adventure
+5893,27927,Tower Unite,NULL,2016-04-08 00:00:00.000,3,2,NULL,NULL,80.0000,0,5594,27927,Adventure
+5894,6187,Taito Legends 2,NULL,2006-03-31 00:00:00.000,1,NULL,75.5000,2,NULL,NULL,5605,6187,Adventure
+5899,57035,Toy Goblins,NULL,2017-09-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL,5614,57035,Adventure
+5904,4795,Anno: Create A New World,NULL,2009-01-23 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL,5625,4795,Adventure
+5907,112722,Drone BR,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5629,112722,Adventure
